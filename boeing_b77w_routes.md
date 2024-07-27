@@ -12,11 +12,14 @@
 | Aeroflot  | AFL321          | Male Int'l (MLE)             | VRMM             | Sheremetyevo Int'l (SVO)     | UUEE           | 8:10          |
 | Aeroflot  | AFL639          | Phuket Int'l (HKT)           | VTSP             | Vladivostok Int'l (VVO)      | UHWW           | 6:50          |
 | Aeroflot  | AFL1020         | Sheremetyevo Int'l (SVO)     | UUEE             | Koltsovo Int'l (SVX)         | USSS           | 2:20          |
+| Aeroflot  | AFL1021         | Koltsovo Int'l (SVX)         | USSS             | Sheremetyevo Int'l (SVO)     | UUEE           | 1:50          |
+| Aeroflot  | AFL1704         | Sheremetyevo Int'l (SVO)     | UUEE             | Vladivostok Int'l (VVO)      | UHWW           | 7:50          |
 | Aeroflot  | AFL1707         | Vladivostok Int'l (VVO)      | UHWW             | Sheremetyevo Int'l (SVO)     | UUEE           | 8:25          |
 | Aeroflot  | AFL1709         | Vladivostok Int'l (VVO)      | UHWW             | Sheremetyevo Int'l (SVO)     | UUEE           | 8:25          |
 | Aeroflot  | AFL1710         | Sheremetyevo Int'l (SVO)     | UUEE             | Khabarovsk Novy (KHV)        | UHHH           | 7:15          |
 | Aeroflot  | AFL1713         | Khabarovsk Novy (KHV)        | UHHH             | Sheremetyevo Int'l (SVO)     | UUEE           | 7:45          |
 | Aeroflot  | AFL1715         | Khabarovsk Novy (KHV)        | UHHH             | Sheremetyevo Int'l (SVO)     | UUEE           | 9:59          |
+| Aeroflot  | AFL1718         | Sheremetyevo Int'l (SVO)     | UUEE             | Khabarovsk Novy (KHV)        | UHHH           | 7:20          |
 | Aeroflot  | AFL1730         | Sheremetyevo Int'l (SVO)     | UUEE             | Yelizovo (PKC)               | UHPP           | 8:00          |
 | Aeroflot  | AFL1732         | Sheremetyevo Int'l (SVO)     | UUEE             | Yelizovo (PKC)               | UHPP           | 7:51          |
 | Aeroflot  | AFL1733         | Yelizovo (PKC)               | UHPP             | Sheremetyevo Int'l (SVO)     | UUEE           | 8:25          |
@@ -29,6 +32,7 @@
 | Aeroflot  | AFL1863         | Zvartnots Int'l (EVN)        | UDYZ             | Sheremetyevo Int'l (SVO)     | UUEE           | 2:45          |
 | Aeroflot  | AFL2144         | Sheremetyevo Int'l (SVO)     | UUEE             | Antalya (AYT)                | LTAI           | 4:25          |
 | Aeroflot  | AFL2146         | Sheremetyevo Int'l (SVO)     | UUEE             | Antalya (AYT)                | LTAI           | 4:25          |
+| Aeroflot  | AFL2147         | Antalya (AYT)                | LTAI             | Sheremetyevo Int'l (SVO)     | UUEE           | 4:20          |
 | Aeroflot  | AFL2982         | Pulkovo (LED)                | ULLI             | Vladivostok Int'l (VVO)      | UHWW           | 7:48          |
 
 </details>
@@ -36,10 +40,11 @@
 <details>
 <summary>Air Austral</summary>
 
-| Airline     | Flight Number   | Departure                      | Departure ICAO   | Arrival                        | Arrival ICAO   | Flight Time   |
-|:------------|:----------------|:-------------------------------|:-----------------|:-------------------------------|:---------------|:--------------|
-| Air Austral | REU974          | Charles de Gaulle/Roissy (CDG) | LFPG             | Roland Garros (RUN)            | FMEE           | 10:50         |
-| Air Austral | REU975          | Roland Garros (RUN)            | FMEE             | Charles de Gaulle/Roissy (CDG) | LFPG           | 11:15         |
+| Airline     | Flight Number   | Departure                      | Departure ICAO   | Arrival                          | Arrival ICAO   | Flight Time   |
+|:------------|:----------------|:-------------------------------|:-----------------|:---------------------------------|:---------------|:--------------|
+| Air Austral | REU887          | Roland Garros (RUN)            | FMEE             | Suvarnabhumi Bangkok Int'l (BKK) | VTBS           | 8:00          |
+| Air Austral | REU974          | Charles de Gaulle/Roissy (CDG) | LFPG             | Roland Garros (RUN)              | FMEE           | 10:50         |
+| Air Austral | REU975          | Roland Garros (RUN)            | FMEE             | Charles de Gaulle/Roissy (CDG)   | LFPG           | 11:15         |
 
 </details>
 
@@ -78,11 +83,13 @@
 |:----------|:----------------|:------------------------------|:-----------------|:-------------------------------|:---------------|:--------------|
 | Air China | CCA817          | Beijing Capital Int'l (PEK)   | ZBAA             | Washington Dulles Intl (IAD)   | KIAD           | 14:45         |
 | Air China | CCA933          | Beijing Capital Int'l (PEK)   | ZBAA             | Charles de Gaulle/Roissy (CDG) | LFPG           | 10:37         |
+| Air China | CCA939          | Beijing Capital Int'l (PEK)   | ZBAA             | Leonardo da Vinci Int'l (FCO)  | LIRF           | 10:06         |
 | Air China | CCA940          | Leonardo da Vinci Int'l (FCO) | LIRF             | Beijing Capital Int'l (PEK)    | ZBAA           | 9:48          |
 | Air China | CCA983          | Beijing Capital Int'l (PEK)   | ZBAA             | Los Angeles Intl (LAX)         | KLAX           | 12:11         |
 | Air China | CCA984          | Los Angeles Intl (LAX)        | KLAX             | Beijing Capital Int'l (PEK)    | ZBAA           | 15:05         |
 | Air China | CCA985          | Beijing Capital Int'l (PEK)   | ZBAA             | San Francisco Int'l (SFO)      | KSFO           | 11:15         |
 | Air China | CCA997          | Shenyang Taoxian Int'l (SHE)  | ZYTX             | Vancouver Int'l (YVR)          | CYVR           | 9:16          |
+| Air China | CCA1309         | Beijing Capital Int'l (PEK)   | ZBAA             | Guangzhou Baiyun Int'l (CAN)   | ZGGG           | 2:48          |
 | Air China | CCA1332         | Shenzhen Bao'an Int'l (SZX)   | ZGSZ             | Beijing Capital Int'l (PEK)    | ZBAA           | 2:43          |
 | Air China | CCA4183         | Chengdu Shuangliu Int'l (CTU) | ZUUU             | Beijing Capital Int'l (PEK)    | ZBAA           | 2:16          |
 | Air China | CCA9672         | Urumqi Diwopu Int'l (URC)     | ZWWW             | Beijing Capital Int'l (PEK)    | ZBAA           | 3:11          |
@@ -95,16 +102,19 @@
 | Airline    | Flight Number   | Departure                        | Departure ICAO          | Arrival                          | Arrival ICAO   | Flight Time   |
 |:-----------|:----------------|:---------------------------------|:------------------------|:---------------------------------|:---------------|:--------------|
 | Air France | AFR4            | Charles de Gaulle/Roissy (CDG)   | LFPG                    | John F Kennedy Intl (JFK)        | KJFK           | 7:24          |
+| Air France | AFR6            | Charles de Gaulle/Roissy (CDG)   | LFPG                    | John F Kennedy Intl (JFK)        | KJFK           | 7:22          |
 | Air France | AFR8            | Charles de Gaulle/Roissy (CDG)   | LFPG                    | John F Kennedy Intl (JFK)        | KJFK           | 7:29          |
 | Air France | AFR10           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | John F Kennedy Intl (JFK)        | KJFK           | 7:30          |
 | Air France | AFR20           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Los Angeles Intl (LAX)           | KLAX           | 11:04         |
 | Air France | AFR22           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Los Angeles Intl (LAX)           | KLAX           | 10:54         |
 | Air France | AFR24           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Los Angeles Intl (LAX)           | KLAX           | 11:02         |
+| Air France | AFR50           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Washington Dulles Intl (IAD)     | KIAD           | 7:39          |
 | Air France | AFR84           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | San Francisco Int'l (SFO)        | KSFO           | 10:59         |
 | Air France | AFR90           | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Miami Intl (MIA)                 | KMIA           | 8:48          |
 | Air France | AFR111          | Shanghai Pudong Int'l (PVG)      | ZSPD                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 14:20         |
 | Air France | AFR162          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Tokyo Int'l (HND)                | RJTT           | 12:49         |
 | Air France | AFR163          | Tokyo Int'l (HND)                | RJTT                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 14:21         |
+| Air France | AFR198          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Suvarnabhumi Bangkok Int'l (BKK) | VTBS           | 11:50         |
 | Air France | AFR245          | Narita Int'l (NRT)               | RJAA                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 14:12         |
 | Air France | AFR246          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Narita Int'l (NRT)               | RJAA           | 12:53         |
 | Air France | AFR257          | Singapore Changi (SIN)           | WSSS                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 12:40         |
@@ -112,8 +122,10 @@
 | Air France | AFR267          | Incheon Int'l (ICN)              | RKSI                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 13:06         |
 | Air France | AFR292          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Kansai Int'l (KIX)               | RJBB           | 12:21         |
 | Air France | AFR293          | Tokyo Int'l (HND)                | RJTT                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 14:35         |
+| Air France | AFR346          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Montreal-Trudeau (YUL)           | CYUL           | 6:52          |
 | Air France | AFR353          | Quebec/Jean Lesage Int'l (YQB)   | Jean Lesage Int'l (CYQB | Charles de Gaulle/Roissy (CDG)   | LFPG           | 6:15          |
 | Air France | AFR374          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Vancouver Int'l (YVR)            | CYVR           | 9:20          |
+| Air France | AFR386          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Toronto Pearson Int'l (YYZ)      | CYYZ           | 7:23          |
 | Air France | AFR442          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Rio de Janeiro/Galeao Intl (GIG) | SBGL           | 10:35         |
 | Air France | AFR443          | Rio de Janeiro/Galeao Intl (GIG) | SBGL                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 10:35         |
 | Air France | AFR460          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | São Paulo-Guarulhos Int'l (GRU)  | SBGR           | 10:47         |
@@ -121,12 +133,15 @@
 | Air France | AFR648          | Paris Orly (ORY)                 | LFPO                    | Roland Garros (RUN)              | FMEE           | 10:32         |
 | Air France | AFR650          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Cancun Int'l (CUN)               | MMUN           | 9:49          |
 | Air France | AFR652          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Roland Garros (RUN)              | FMEE           | 10:38         |
+| Air France | AFR662          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Dubai Int'l (DXB)                | OMDB           | 6:13          |
 | Air France | AFR671          | Roland Garros (RUN)              | FMEE                    | Paris Orly (ORY)                 | LFPO           | 11:10         |
+| Air France | AFR702          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Port Bouet (ABJ)                 | DIAP           | 5:47          |
 | Air France | AFR718          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Blaise Diagne (DSS)              | GOBD           | 4:57          |
 | Air France | AFR758          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Pôle Caraïbes (PTP)              | TFFR           | 8:20          |
 | Air France | AFR770          | Paris Orly (ORY)                 | LFPO                    | Pôle Caraïbes (PTP)              | TFFR           | 8:23          |
 | Air France | AFR816          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Martinique Aime Cesaire (FDF)    | TFFF           | 8:17          |
 | Air France | AFR842          | Paris Orly (ORY)                 | LFPO                    | Martinique Aime Cesaire (FDF)    | TFFF           | 8:20          |
+| Air France | AFR950          | Charles de Gaulle/Roissy (CDG)   | LFPG                    | Jose Marti Int'l (HAV)           | MUHA           | 9:12          |
 | Air France | AFR995          | OR Tambo Int'l (JNB)             | FAOR                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 10:42         |
 | Air France | AFR4081         | Toronto Pearson Int'l (YYZ)      | CYYZ                    | Charles de Gaulle/Roissy (CDG)   | LFPG           | 6:26          |
 | Air France | AFR4241         | Bastia Poretta (BIA)             | LFKB                    | Paris Orly (ORY)                 | LFPO           | 1:17          |
@@ -138,6 +153,8 @@
 
 | Airline   | Flight Number   | Departure                      | Departure ICAO   | Arrival                        | Arrival ICAO   | Flight Time   |
 |:----------|:----------------|:-------------------------------|:-----------------|:-------------------------------|:---------------|:--------------|
+| Air India | AIC102          | John F Kennedy Intl (JFK)      | KJFK             | Indira Gandhi Int'l (DEL)      | VIDP           | 12:41         |
+| Air India | AIC106          | Newark Liberty Intl (EWR)      | KEWR             | Indira Gandhi Int'l (DEL)      | VIDP           | 12:45         |
 | Air India | AIC112          | London Heathrow (LHR)          | EGLL             | Indira Gandhi Int'l (DEL)      | VIDP           | 7:24          |
 | Air India | AIC116          | John F Kennedy Intl (JFK)      | KJFK             | Chatrapati Shivaji Int'l (BOM) | VABB           | 14:09         |
 | Air India | AIC126          | Chicago O'Hare Intl (ORD)      | KORD             | Indira Gandhi Int'l (DEL)      | VIDP           | 13:15         |
@@ -148,7 +165,9 @@
 | Air India | AIC186          | Vancouver Int'l (YVR)          | CYVR             | Indira Gandhi Int'l (DEL)      | VIDP           | 13:03         |
 | Air India | AIC187          | Indira Gandhi Int'l (DEL)      | VIDP             | Toronto Pearson Int'l (YYZ)    | CYYZ           | 14:18         |
 | Air India | AIC188          | Toronto Pearson Int'l (YYZ)    | CYYZ             | Indira Gandhi Int'l (DEL)      | VIDP           | 13:07         |
+| Air India | AIC538          | Chennai Int'l (MAA)            | VOMM             | Indira Gandhi Int'l (DEL)      | VIDP           | 2:25          |
 | Air India | AIC544          | Indira Gandhi Int'l (DEL)      | VIDP             | Rajiv Gandhi Int'l (HYD)       | VOHS           | 1:50          |
+| Air India | AIC816          | Chatrapati Shivaji Int'l (BOM) | VABB             | Indira Gandhi Int'l (DEL)      | VIDP           | 1:13          |
 
 </details>
 
@@ -205,11 +224,14 @@
 | American Airlines | AAL81           | London Heathrow (LHR)          | EGLL             | Dallas-Fort Worth Intl (DFW) | KDFW           | 9:13          |
 | American Airlines | AAL101          | London Heathrow (LHR)          | EGLL             | John F Kennedy Intl (JFK)    | KJFK           | 7:00          |
 | American Airlines | AAL105          | London Heathrow (LHR)          | EGLL             | John F Kennedy Intl (JFK)    | KJFK           | 7:06          |
+| American Airlines | AAL106          | John F Kennedy Intl (JFK)      | KJFK             | London Heathrow (LHR)        | EGLL           | 6:01          |
 | American Airlines | AAL107          | London Heathrow (LHR)          | EGLL             | John F Kennedy Intl (JFK)    | KJFK           | 7:01          |
 | American Airlines | AAL135          | London Heathrow (LHR)          | EGLL             | Los Angeles Intl (LAX)       | KLAX           | 10:51         |
 | American Airlines | AAL137          | London Heathrow (LHR)          | EGLL             | Los Angeles Intl (LAX)       | KLAX           | 10:45         |
 | American Airlines | AAL245          | Leonardo da Vinci Int'l (FCO)  | LIRF             | John F Kennedy Intl (JFK)    | KJFK           | 8:48          |
 | American Airlines | AAL293          | Indira Gandhi Int'l (DEL)      | VIDP             | John F Kennedy Intl (JFK)    | KJFK           | 15:53         |
+| American Airlines | AAL960          | Miami Intl (MIA)               | KMIA             | Los Angeles Intl (LAX)       | KLAX           | 4:36          |
+| American Airlines | AAL1637         | Los Angeles Intl (LAX)         | KLAX             | Miami Intl (MIA)             | KMIA           | 4:25          |
 
 </details>
 
@@ -223,6 +245,7 @@
 | British Airways | BAW113          | London Heathrow (LHR)     | EGLL             | John F Kennedy Intl (JFK)  | KJFK           | 7:28          |
 | British Airways | BAW115          | London Heathrow (LHR)     | EGLL             | John F Kennedy Intl (JFK)  | KJFK           | 7:23          |
 | British Airways | BAW173          | London Heathrow (LHR)     | EGLL             | John F Kennedy Intl (JFK)  | KJFK           | 7:14          |
+| British Airways | BAW177          | London Heathrow (LHR)     | EGLL             | John F Kennedy Intl (JFK)  | KJFK           | 7:22          |
 | British Airways | BAW179          | London Heathrow (LHR)     | EGLL             | John F Kennedy Intl (JFK)  | KJFK           | 7:19          |
 | British Airways | BAW197          | London Heathrow (LHR)     | EGLL             | Houston Bush Int'ctl (IAH) | KIAH           | 9:34          |
 | British Airways | BAW281          | London Heathrow (LHR)     | EGLL             | Los Angeles Intl (LAX)     | KLAX           | 10:54         |
@@ -230,6 +253,7 @@
 | British Airways | BAW283          | London Heathrow (LHR)     | EGLL             | Los Angeles Intl (LAX)     | KLAX           | 10:47         |
 | British Airways | BAW286          | San Francisco Int'l (SFO) | KSFO             | London Heathrow (LHR)      | EGLL           | 9:47          |
 | British Airways | BAW287          | London Heathrow (LHR)     | EGLL             | San Francisco Int'l (SFO)  | KSFO           | 10:34         |
+| British Airways | BAW297          | London Heathrow (LHR)     | EGLL             | Chicago O'Hare Intl (ORD)  | KORD           | 8:14          |
 
 </details>
 
@@ -259,6 +283,7 @@
 | Cathay Pacific Airways | CPA542          | Hong Kong Int'l (HKG)          | VHHH             | Tokyo Int'l (HND)              | RJTT           | 4:07          |
 | Cathay Pacific Airways | CPA549          | Tokyo Int'l (HND)              | RJTT             | Hong Kong Int'l (HKG)          | VHHH           | 3:46          |
 | Cathay Pacific Airways | CPA583          | New Chitose (CTS)              | RJCC             | Hong Kong Int'l (HKG)          | VHHH           | 4:36          |
+| Cathay Pacific Airways | CPA663          | Hong Kong Int'l (HKG)          | VHHH             | Chatrapati Shivaji Int'l (BOM) | VABB           | 5:25          |
 | Cathay Pacific Airways | CPA685          | Hong Kong Int'l (HKG)          | VHHH             | Chatrapati Shivaji Int'l (BOM) | VABB           | 5:35          |
 | Cathay Pacific Airways | CPA695          | Hong Kong Int'l (HKG)          | VHHH             | Indira Gandhi Int'l (DEL)      | VIDP           | 5:20          |
 | Cathay Pacific Airways | CPA696          | Chatrapati Shivaji Int'l (BOM) | VABB             | Hong Kong Int'l (HKG)          | VHHH           | 5:28          |
@@ -315,6 +340,7 @@
 | China Southern Airlines | CSN327          | Guangzhou Baiyun Int'l (CAN)               | ZGGG             | Los Angeles Intl (LAX)                     | KLAX           | 12:41         |
 | China Southern Airlines | CSN328          | Los Angeles Intl (LAX)                     | KLAX             | Guangzhou Baiyun Int'l (CAN)               | ZGGG           | 13:50         |
 | China Southern Airlines | CSN600          | John F Kennedy Intl (JFK)                  | KJFK             | Guangzhou Baiyun Int'l (CAN)               | ZGGG           | 14:45         |
+| China Southern Airlines | CSN657          | Guangzhou Baiyun Int'l (CAN)               | ZGGG             | San Francisco Int'l (SFO)                  | KSFO           | 12:05         |
 | China Southern Airlines | CSN660          | San Francisco Int'l (SFO)                  | KSFO             | Wuhan Tianhe (WUH)                         | ZHHH           | 14:25         |
 | China Southern Airlines | CSN3100         | Beijing Daxing International Airport (PKX) | ZBAD             | Guangzhou Baiyun Int'l (CAN)               | ZGGG           | 2:37          |
 | China Southern Airlines | CSN3111         | Guangzhou Baiyun Int'l (CAN)               | ZGGG             | Beijing Daxing International Airport (PKX) | ZBAD           | 2:35          |
@@ -340,6 +366,7 @@
 | EVA Air   | EVA16           | Taiwan Taoyuan Int'l (TPE)       | RCTP             | Los Angeles Intl (LAX)      | KLAX           | 11:44         |
 | EVA Air   | EVA17           | San Francisco Int'l (SFO)        | KSFO             | Taiwan Taoyuan Int'l (TPE)  | RCTP           | 12:03         |
 | EVA Air   | EVA18           | Taiwan Taoyuan Int'l (TPE)       | RCTP             | San Francisco Int'l (SFO)   | KSFO           | 11:10         |
+| EVA Air   | EVA24           | Taiwan Taoyuan Int'l (TPE)       | RCTP             | Seattle-Tacoma Intl (SEA)   | KSEA           | 10:44         |
 | EVA Air   | EVA27           | San Francisco Int'l (SFO)        | KSFO             | Taiwan Taoyuan Int'l (TPE)  | RCTP           | 11:56         |
 | EVA Air   | EVA28           | Taiwan Taoyuan Int'l (TPE)       | RCTP             | San Francisco Int'l (SFO)   | KSFO           | 11:10         |
 | EVA Air   | EVA31           | John F Kennedy Intl (JFK)        | KJFK             | Taiwan Taoyuan Int'l (TPE)  | RCTP           | 14:42         |
@@ -363,6 +390,7 @@
 | Egyptair  | MSR777          | Cairo Int'l (CAI)           | HECA             | London Heathrow (LHR)       | EGLL           | 4:50          |
 | Egyptair  | MSR778          | London Heathrow (LHR)       | EGLL             | Cairo Int'l (CAI)           | HECA           | 4:30          |
 | Egyptair  | MSR785          | Cairo Int'l (CAI)           | HECA             | Frankfurt Int'l (FRA)       | EDDF           | 4:00          |
+| Egyptair  | MSR786          | Frankfurt Int'l (FRA)       | EDDF             | Cairo Int'l (CAI)           | HECA           | 3:40          |
 | Egyptair  | MSR985          | Cairo Int'l (CAI)           | HECA             | John F Kennedy Intl (JFK)   | KJFK           | 11:20         |
 | Egyptair  | MSR986          | John F Kennedy Intl (JFK)   | KJFK             | Cairo Int'l (CAI)           | HECA           | 10:22         |
 | Egyptair  | MSR996          | Toronto Pearson Int'l (YYZ) | CYYZ             | Cairo Int'l (CAI)           | HECA           | 10:00         |
@@ -373,122 +401,157 @@
 <details>
 <summary>Emirates Airlines</summary>
 
-| Airline           | Flight Number   | Departure                                 | Departure ICAO   | Arrival                                           | Arrival ICAO   | Flight Time   |
-|:------------------|:----------------|:------------------------------------------|:-----------------|:--------------------------------------------------|:---------------|:--------------|
-| Emirates Airlines | UAE12           | London Gatwick (LGW)                      | EGKK             | Dubai Int'l (DXB)                                 | OMDB           | 6:23          |
-| Emirates Airlines | UAE37           | Dubai Int'l (DXB)                         | OMDB             | Birmingham Int'l (BHX)                            | EGBB           | 7:17          |
-| Emirates Airlines | UAE41           | Dubai Int'l (DXB)                         | OMDB             | London Heathrow (LHR)                             | EGLL           | 6:43          |
-| Emirates Airlines | UAE42           | London Heathrow (LHR)                     | EGLL             | Dubai Int'l (DXB)                                 | OMDB           | 6:26          |
-| Emirates Airlines | UAE44           | Frankfurt Int'l (FRA)                     | EDDF             | Dubai Int'l (DXB)                                 | OMDB           | 5:43          |
-| Emirates Airlines | UAE47           | Dubai Int'l (DXB)                         | OMDB             | Frankfurt Int'l (FRA)                             | EDDF           | 6:12          |
-| Emirates Airlines | UAE57           | Dubai Int'l (DXB)                         | OMDB             | Dusseldorf Int'l (DUS)                            | EDDL           | 5:59          |
-| Emirates Airlines | UAE58           | Dusseldorf Int'l (DUS)                    | EDDL             | Dubai Int'l (DXB)                                 | OMDB           | 5:44          |
-| Emirates Airlines | UAE61           | Dubai Int'l (DXB)                         | OMDB             | Hamburg (HAM)                                     | EDDH           | 6:24          |
-| Emirates Airlines | UAE62           | Hamburg (HAM)                             | EDDH             | Dubai Int'l (DXB)                                 | OMDB           | 5:40          |
-| Emirates Airlines | UAE66           | London Stansted (STN)                     | EGSS             | Dubai Int'l (DXB)                                 | OMDB           | 6:07          |
-| Emirates Airlines | UAE67           | Dubai Int'l (DXB)                         | OMDB             | London Stansted (STN)                             | EGSS           | 6:58          |
-| Emirates Airlines | UAE83           | Dubai Int'l (DXB)                         | OMDB             | Geneva Cointrin Int'l (GVA)                       | LSGG           | 6:21          |
-| Emirates Airlines | UAE84           | Geneva Cointrin Int'l (GVA)               | LSGG             | Dubai Int'l (DXB)                                 | OMDB           | 5:47          |
-| Emirates Airlines | UAE109          | Larnaca Int'l (LCA)                       | LCLK             | Malta Int'l (MLA)                                 | LMML           | 2:31          |
-| Emirates Airlines | UAE110          | Larnaca Int'l (LCA)                       | LCLK             | Dubai Int'l (DXB)                                 | OMDB           | 3:01          |
-| Emirates Airlines | UAE111          | Dubai Int'l (DXB)                         | OMDB             | Budapest Ferenc Liszt International Airport (BUD) | LHBP           | 5:15          |
-| Emirates Airlines | UAE121          | Dubai Int'l (DXB)                         | OMDB             | Istanbul Airport (IST)                            | LTFM           | 4:10          |
-| Emirates Airlines | UAE122          | Istanbul Airport (IST)                    | LTFM             | Dubai Int'l (DXB)                                 | OMDB           | 4:03          |
-| Emirates Airlines | UAE143          | Dubai Int'l (DXB)                         | OMDB             | Adolfo Suárez Madrid-Barajas (MAD)                | LEMD           | 7:04          |
-| Emirates Airlines | UAE146          | Amsterdam Schiphol (AMS)                  | EHAM             | Dubai Int'l (DXB)                                 | OMDB           | 6:00          |
-| Emirates Airlines | UAE149          | Dubai Int'l (DXB)                         | OMDB             | Amsterdam Schiphol (AMS)                          | EHAM           | 6:29          |
-| Emirates Airlines | UAE162          | Dublin Int'l (DUB)                        | EIDW             | Dubai Int'l (DXB)                                 | OMDB           | 6:33          |
-| Emirates Airlines | UAE163          | Dubai Int'l (DXB)                         | OMDB             | Dublin Int'l (DUB)                                | EIDW           | 7:37          |
-| Emirates Airlines | UAE181          | Dubai Int'l (DXB)                         | OMDB             | Brussels (BRU)                                    | EBBR           | 6:33          |
-| Emirates Airlines | UAE182          | Brussels (BRU)                            | EBBR             | Dubai Int'l (DXB)                                 | OMDB           | 5:50          |
-| Emirates Airlines | UAE192          | General Humberto Delgado Airport (LIS)    | LPPT             | Dubai Int'l (DXB)                                 | OMDB           | 7:02          |
-| Emirates Airlines | UAE193          | Dubai Int'l (DXB)                         | OMDB             | General Humberto Delgado Airport (LIS)            | LPPT           | 7:53          |
-| Emirates Airlines | UAE209          | Athens Int'l, Eleftherios Venizelos (ATH) | LGAV             | Newark Liberty Intl (EWR)                         | KEWR           | 10:08         |
-| Emirates Airlines | UAE210          | Newark Liberty Intl (EWR)                 | KEWR             | Athens Int'l, Eleftherios Venizelos (ATH)         | LGAV           | 8:45          |
-| Emirates Airlines | UAE213          | Dubai Int'l (DXB)                         | OMDB             | Miami Intl (MIA)                                  | KMIA           | 14:47         |
-| Emirates Airlines | UAE214          | Miami Intl (MIA)                          | KMIA             | Dubai Int'l (DXB)                                 | OMDB           | 13:11         |
-| Emirates Airlines | UAE219          | Dubai Int'l (DXB)                         | OMDB             | Orlando Intl (MCO)                                | KMCO           | 14:56         |
-| Emirates Airlines | UAE220          | Orlando Intl (MCO)                        | KMCO             | Dubai Int'l (DXB)                                 | OMDB           | 13:24         |
-| Emirates Airlines | UAE221          | Dubai Int'l (DXB)                         | OMDB             | Dallas-Fort Worth Intl (DFW)                      | KDFW           | 15:10         |
-| Emirates Airlines | UAE222          | Dallas-Fort Worth Intl (DFW)              | KDFW             | Dubai Int'l (DXB)                                 | OMDB           | 13:35         |
-| Emirates Airlines | UAE229          | Dubai Int'l (DXB)                         | OMDB             | Seattle-Tacoma Intl (SEA)                         | KSEA           | 13:34         |
-| Emirates Airlines | UAE230          | Seattle-Tacoma Intl (SEA)                 | KSEA             | Dubai Int'l (DXB)                                 | OMDB           | 14:09         |
-| Emirates Airlines | UAE235          | Dubai Int'l (DXB)                         | OMDB             | Chicago O'Hare Intl (ORD)                         | KORD           | 14:01         |
-| Emirates Airlines | UAE236          | Chicago O'Hare Intl (ORD)                 | KORD             | Dubai Int'l (DXB)                                 | OMDB           | 12:58         |
-| Emirates Airlines | UAE237          | Dubai Int'l (DXB)                         | OMDB             | Boston Logan Intl (BOS)                           | KBOS           | 13:01         |
-| Emirates Airlines | UAE238          | Boston Logan Intl (BOS)                   | KBOS             | Dubai Int'l (DXB)                                 | OMDB           | 11:35         |
-| Emirates Airlines | UAE303          | Shanghai Pudong Int'l (PVG)               | ZSPD             | Dubai Int'l (DXB)                                 | OMDB           | 8:02          |
-| Emirates Airlines | UAE304          | Dubai Int'l (DXB)                         | OMDB             | Shanghai Pudong Int'l (PVG)                       | ZSPD           | 8:19          |
-| Emirates Airlines | UAE307          | Beijing Capital Int'l (PEK)               | ZBAA             | Dubai Int'l (DXB)                                 | OMDB           | 8:05          |
-| Emirates Airlines | UAE308          | Dubai Int'l (DXB)                         | OMDB             | Beijing Capital Int'l (PEK)                       | ZBAA           | 7:18          |
-| Emirates Airlines | UAE312          | Dubai Int'l (DXB)                         | OMDB             | Tokyo Int'l (HND)                                 | RJTT           | 9:40          |
-| Emirates Airlines | UAE313          | Tokyo Int'l (HND)                         | RJTT             | Dubai Int'l (DXB)                                 | OMDB           | 9:41          |
-| Emirates Airlines | UAE325          | Incheon Int'l (ICN)                       | RKSI             | Dubai Int'l (DXB)                                 | OMDB           | 8:48          |
-| Emirates Airlines | UAE333          | Manila Int'l (MNL)                        | RPLL             | Dubai Int'l (DXB)                                 | OMDB           | 8:03          |
-| Emirates Airlines | UAE334          | Dubai Int'l (DXB)                         | OMDB             | Manila Int'l (MNL)                                | RPLL           | 8:24          |
-| Emirates Airlines | UAE335          | Manila Int'l (MNL)                        | RPLL             | Dubai Int'l (DXB)                                 | OMDB           | 7:50          |
-| Emirates Airlines | UAE336          | Dubai Int'l (DXB)                         | OMDB             | Manila Int'l (MNL)                                | RPLL           | 8:05          |
-| Emirates Airlines | UAE338          | Clark International (CRK)                 | RPLC             | Dubai Int'l (DXB)                                 | OMDB           | 7:53          |
-| Emirates Airlines | UAE344          | Dubai Int'l (DXB)                         | OMDB             | Kuala Lumpur Int'l (KUL)                          | WMKK           | 6:34          |
-| Emirates Airlines | UAE347          | Kuala Lumpur Int'l (KUL)                  | WMKK             | Dubai Int'l (DXB)                                 | OMDB           | 6:11          |
-| Emirates Airlines | UAE349          | Singapore Changi (SIN)                    | WSSS             | Dubai Int'l (DXB)                                 | OMDB           | 6:50          |
-| Emirates Airlines | UAE357          | Jakarta-Soekarno-Hatta Int'l (CGK)        | WIII             | Dubai Int'l (DXB)                                 | OMDB           | 7:08          |
-| Emirates Airlines | UAE358          | Dubai Int'l (DXB)                         | OMDB             | Jakarta-Soekarno-Hatta Int'l (CGK)                | WIII           | 8:09          |
-| Emirates Airlines | UAE359          | Jakarta-Soekarno-Hatta Int'l (CGK)        | WIII             | Dubai Int'l (DXB)                                 | OMDB           | 7:06          |
-| Emirates Airlines | UAE362          | Dubai Int'l (DXB)                         | OMDB             | Guangzhou Baiyun Int'l (CAN)                      | ZGGG           | 7:31          |
-| Emirates Airlines | UAE363          | Guangzhou Baiyun Int'l (CAN)              | ZGGG             | Dubai Int'l (DXB)                                 | OMDB           | 7:04          |
-| Emirates Airlines | UAE370          | Dubai Int'l (DXB)                         | OMDB             | Suvarnabhumi Bangkok Int'l (BKK)                  | VTBS           | 6:09          |
-| Emirates Airlines | UAE392          | Dubai Int'l (DXB)                         | OMDB             | Tan Son Nhat Int'l (SGN)                          | VVTS           | 6:53          |
-| Emirates Airlines | UAE393          | Tan Son Nhat Int'l (SGN)                  | VVTS             | Dubai Int'l (DXB)                                 | OMDB           | 6:23          |
-| Emirates Airlines | UAE395          | Noi Bai Int'l (HAN)                       | VVNB             | Dubai Int'l (DXB)                                 | OMDB           | 5:48          |
-| Emirates Airlines | UAE396          | Dubai Int'l (DXB)                         | OMDB             | Phuket Int'l (HKT)                                | VTSP           | 6:09          |
-| Emirates Airlines | UAE397          | Phuket Int'l (HKT)                        | VTSP             | Dubai Int'l (DXB)                                 | OMDB           | 5:39          |
-| Emirates Airlines | UAE398          | Dubai Int'l (DXB)                         | OMDB             | Ngurah Rai/Bali Intl (DPS)                        | WADD           | 8:55          |
-| Emirates Airlines | UAE399          | Ngurah Rai/Bali Intl (DPS)                | WADD             | Dubai Int'l (DXB)                                 | OMDB           | 8:22          |
-| Emirates Airlines | UAE404          | Dubai Int'l (DXB)                         | OMDB             | Singapore Changi (SIN)                            | WSSS           | 7:17          |
-| Emirates Airlines | UAE405          | Melbourne Tullamarine (MEL)               | YMML             | Singapore Changi (SIN)                            | WSSS           | 7:30          |
-| Emirates Airlines | UAE430          | Dubai Int'l (DXB)                         | OMDB             | Brisbane (BNE)                                    | YBBN           | 13:06         |
-| Emirates Airlines | UAE431          | Brisbane (BNE)                            | YBBN             | Dubai Int'l (DXB)                                 | OMDB           | 13:29         |
-| Emirates Airlines | UAE507          | Chatrapati Shivaji Int'l (BOM)            | VABB             | Dubai Int'l (DXB)                                 | OMDB           | 2:34          |
-| Emirates Airlines | UAE512          | Dubai Int'l (DXB)                         | OMDB             | Indira Gandhi Int'l (DEL)                         | VIDP           | 2:55          |
-| Emirates Airlines | UAE514          | Dubai Int'l (DXB)                         | OMDB             | Indira Gandhi Int'l (DEL)                         | VIDP           | 3:06          |
-| Emirates Airlines | UAE515          | Indira Gandhi Int'l (DEL)                 | VIDP             | Dubai Int'l (DXB)                                 | OMDB           | 2:58          |
-| Emirates Airlines | UAE517          | Indira Gandhi Int'l (DEL)                 | VIDP             | Dubai Int'l (DXB)                                 | OMDB           | 2:58          |
-| Emirates Airlines | UAE522          | Dubai Int'l (DXB)                         | OMDB             | Thiruvananthapuram Int'l (TRV)                    | VOTV           | 3:54          |
-| Emirates Airlines | UAE524          | Dubai Int'l (DXB)                         | OMDB             | Rajiv Gandhi Int'l (HYD)                          | VOHS           | 3:21          |
-| Emirates Airlines | UAE532          | Dubai Int'l (DXB)                         | OMDB             | Cochin Int'l (COK)                                | VOCI           | 3:52          |
-| Emirates Airlines | UAE542          | Dubai Int'l (DXB)                         | OMDB             | Chennai Int'l (MAA)                               | VOMM           | 3:51          |
-| Emirates Airlines | UAE546          | Dubai Int'l (DXB)                         | OMDB             | Chennai Int'l (MAA)                               | VOMM           | 3:57          |
-| Emirates Airlines | UAE547          | Chennai Int'l (MAA)                       | VOMM             | Dubai Int'l (DXB)                                 | OMDB           | 3:36          |
-| Emirates Airlines | UAE566          | Dubai Int'l (DXB)                         | OMDB             | Bengaluru Int'l (BLR)                             | VOBL           | 3:36          |
-| Emirates Airlines | UAE572          | Dubai Int'l (DXB)                         | OMDB             | Netaji Subhash Chandra Bose Int'l (CCU)           | VECC           | 4:26          |
-| Emirates Airlines | UAE583          | Shahjalal International Airport (DAC)     | VGHS             | Dubai Int'l (DXB)                                 | OMDB           | 3:58          |
-| Emirates Airlines | UAE585          | Shahjalal International Airport (DAC)     | VGHS             | Dubai Int'l (DXB)                                 | OMDB           | 4:04          |
-| Emirates Airlines | UAE652          | Male Int'l (MLE)                          | VRMM             | Bandaranaike Int'l (CMB)                          | VCBI           | 1:16          |
-| Emirates Airlines | UAE653          | Male Int'l (MLE)                          | VRMM             | Dubai Int'l (DXB)                                 | OMDB           | 3:31          |
-| Emirates Airlines | UAE708          | Seychelles Int'l (SEZ)                    | FSIA             | Dubai Int'l (DXB)                                 | OMDB           | 4:06          |
-| Emirates Airlines | UAE713          | Dubai Int'l (DXB)                         | OMDB             | Lusaka International Airport (LUN)                | FLKK           | 6:36          |
-| Emirates Airlines | UAE714          | Lusaka International Airport (LUN)        | FLKK             | Dubai Int'l (DXB)                                 | OMDB           | 6:38          |
-| Emirates Airlines | UAE722          | Jomo Kenyatta Int'l (NBO)                 | HKJK             | Dubai Int'l (DXB)                                 | OMDB           | 4:49          |
-| Emirates Airlines | UAE758          | Houari Boumedienne (ALG)                  | DAAG             | Dubai Int'l (DXB)                                 | OMDB           | 6:00          |
-| Emirates Airlines | UAE762          | OR Tambo Int'l (JNB)                      | FAOR             | Dubai Int'l (DXB)                                 | OMDB           | 7:31          |
-| Emirates Airlines | UAE765          | Dubai Int'l (DXB)                         | OMDB             | OR Tambo Int'l (JNB)                              | FAOR           | 7:51          |
-| Emirates Airlines | UAE770          | Dubai Int'l (DXB)                         | OMDB             | Cape Town Int'l (CPT)                             | FACT           | 9:21          |
-| Emirates Airlines | UAE771          | Cape Town Int'l (CPT)                     | FACT             | Dubai Int'l (DXB)                                 | OMDB           | 8:59          |
-| Emirates Airlines | UAE773          | Cape Town Int'l (CPT)                     | FACT             | Dubai Int'l (DXB)                                 | OMDB           | 8:54          |
-| Emirates Airlines | UAE775          | Dubai Int'l (DXB)                         | OMDB             | King Shaka Int'l (DUR)                            | FALE           | 8:03          |
-| Emirates Airlines | UAE776          | King Shaka Int'l (DUR)                    | FALE             | Dubai Int'l (DXB)                                 | OMDB           | 7:52          |
-| Emirates Airlines | UAE788          | Kotoka Int'l (ACC)                        | DGAA             | Dubai Int'l (DXB)                                 | OMDB           | 8:33          |
-| Emirates Airlines | UAE793          | Dubai Int'l (DXB)                         | OMDB             | Quatro de Fevereiro (LAD)                         | FNLU           | 7:18          |
-| Emirates Airlines | UAE795          | Blaise Diagne (DSS)                       | GOBD             | Dubai Int'l (DXB)                                 | OMDB           | 8:57          |
-| Emirates Airlines | UAE809          | Dubai Int'l (DXB)                         | OMDB             | Prince Mohammad Bin Abdulaziz (MED)               | OEMA           | 2:15          |
-| Emirates Airlines | UAE822          | King Fahd Int'l (DMM)                     | OEDF             | Dubai Int'l (DXB)                                 | OMDB           | 1:11          |
-| Emirates Airlines | UAE857          | Dubai Int'l (DXB)                         | OMDB             | Kuwait Int'l (KWI)                                | OKKK           | 1:22          |
-| Emirates Airlines | UAE860          | Kuwait Int'l (KWI)                        | OKKK             | Dubai Int'l (DXB)                                 | OMDB           | 1:28          |
-| Emirates Airlines | UAE905          | Dubai Int'l (DXB)                         | OMDB             | Queen Alia Int'l (AMM)                            | OJAI           | 2:37          |
-| Emirates Airlines | UAE953          | Dubai Int'l (DXB)                         | OMDB             | Beirut Air Base/Rafic Hariri Int'l (BEY)          | OLBA           | 3:36          |
-| Emirates Airlines | UAE954          | Beirut Air Base/Rafic Hariri Int'l (BEY)  | OLBA             | Dubai Int'l (DXB)                                 | OMDB           | 3:47          |
-| Emirates Airlines | UAE958          | Beirut Air Base/Rafic Hariri Int'l (BEY)  | OLBA             | Dubai Int'l (DXB)                                 | OMDB           | 3:51          |
+| Airline           | Flight Number   | Departure                                         | Departure ICAO   | Arrival                                           | Arrival ICAO   | Flight Time   |
+|:------------------|:----------------|:--------------------------------------------------|:-----------------|:--------------------------------------------------|:---------------|:--------------|
+| Emirates Airlines | UAE12           | London Gatwick (LGW)                              | EGKK             | Dubai Int'l (DXB)                                 | OMDB           | 6:23          |
+| Emirates Airlines | UAE36           | Newcastle (NCL)                                   | EGNT             | Dubai Int'l (DXB)                                 | OMDB           | 6:20          |
+| Emirates Airlines | UAE37           | Dubai Int'l (DXB)                                 | OMDB             | Birmingham Int'l (BHX)                            | EGBB           | 7:17          |
+| Emirates Airlines | UAE41           | Dubai Int'l (DXB)                                 | OMDB             | London Heathrow (LHR)                             | EGLL           | 6:43          |
+| Emirates Airlines | UAE42           | London Heathrow (LHR)                             | EGLL             | Dubai Int'l (DXB)                                 | OMDB           | 6:26          |
+| Emirates Airlines | UAE44           | Frankfurt Int'l (FRA)                             | EDDF             | Dubai Int'l (DXB)                                 | OMDB           | 5:43          |
+| Emirates Airlines | UAE47           | Dubai Int'l (DXB)                                 | OMDB             | Frankfurt Int'l (FRA)                             | EDDF           | 6:12          |
+| Emirates Airlines | UAE57           | Dubai Int'l (DXB)                                 | OMDB             | Dusseldorf Int'l (DUS)                            | EDDL           | 5:59          |
+| Emirates Airlines | UAE58           | Dusseldorf Int'l (DUS)                            | EDDL             | Dubai Int'l (DXB)                                 | OMDB           | 5:44          |
+| Emirates Airlines | UAE60           | Hamburg (HAM)                                     | EDDH             | Dubai Int'l (DXB)                                 | OMDB           | 5:31          |
+| Emirates Airlines | UAE61           | Dubai Int'l (DXB)                                 | OMDB             | Hamburg (HAM)                                     | EDDH           | 6:24          |
+| Emirates Airlines | UAE62           | Hamburg (HAM)                                     | EDDH             | Dubai Int'l (DXB)                                 | OMDB           | 5:40          |
+| Emirates Airlines | UAE66           | London Stansted (STN)                             | EGSS             | Dubai Int'l (DXB)                                 | OMDB           | 6:07          |
+| Emirates Airlines | UAE67           | Dubai Int'l (DXB)                                 | OMDB             | London Stansted (STN)                             | EGSS           | 6:58          |
+| Emirates Airlines | UAE82           | Lyon (LYS)                                        | LFLL             | Dubai Int'l (DXB)                                 | OMDB           | 5:43          |
+| Emirates Airlines | UAE83           | Dubai Int'l (DXB)                                 | OMDB             | Geneva Cointrin Int'l (GVA)                       | LSGG           | 6:21          |
+| Emirates Airlines | UAE84           | Geneva Cointrin Int'l (GVA)                       | LSGG             | Dubai Int'l (DXB)                                 | OMDB           | 5:47          |
+| Emirates Airlines | UAE90           | Geneva Cointrin Int'l (GVA)                       | LSGG             | Dubai Int'l (DXB)                                 | OMDB           | 5:45          |
+| Emirates Airlines | UAE94           | Bologna (BLQ)                                     | LIPE             | Dubai Int'l (DXB)                                 | OMDB           | 5:20          |
+| Emirates Airlines | UAE109          | Larnaca Int'l (LCA)                               | LCLK             | Malta Int'l (MLA)                                 | LMML           | 2:31          |
+| Emirates Airlines | UAE110          | Larnaca Int'l (LCA)                               | LCLK             | Dubai Int'l (DXB)                                 | OMDB           | 3:01          |
+| Emirates Airlines | UAE111          | Dubai Int'l (DXB)                                 | OMDB             | Budapest Ferenc Liszt International Airport (BUD) | LHBP           | 5:15          |
+| Emirates Airlines | UAE112          | Budapest Ferenc Liszt International Airport (BUD) | LHBP             | Dubai Int'l (DXB)                                 | OMDB           | 4:41          |
+| Emirates Airlines | UAE117          | Dubai Int'l (DXB)                                 | OMDB             | Istanbul Airport (IST)                            | LTFM           | 4:02          |
+| Emirates Airlines | UAE121          | Dubai Int'l (DXB)                                 | OMDB             | Istanbul Airport (IST)                            | LTFM           | 4:10          |
+| Emirates Airlines | UAE122          | Istanbul Airport (IST)                            | LTFM             | Dubai Int'l (DXB)                                 | OMDB           | 4:03          |
+| Emirates Airlines | UAE136          | Marco Polo Int'l (VCE)                            | LIPZ             | Dubai Int'l (DXB)                                 | OMDB           | 5:03          |
+| Emirates Airlines | UAE140          | Václav Havel Airport (PRG)                        | LKPR             | Dubai Int'l (DXB)                                 | OMDB           | 5:25          |
+| Emirates Airlines | UAE143          | Dubai Int'l (DXB)                                 | OMDB             | Adolfo Suárez Madrid-Barajas (MAD)                | LEMD           | 7:04          |
+| Emirates Airlines | UAE146          | Amsterdam Schiphol (AMS)                          | EHAM             | Dubai Int'l (DXB)                                 | OMDB           | 6:00          |
+| Emirates Airlines | UAE149          | Dubai Int'l (DXB)                                 | OMDB             | Amsterdam Schiphol (AMS)                          | EHAM           | 6:29          |
+| Emirates Airlines | UAE152          | Copenhagen (CPH)                                  | EKCH             | Dubai Int'l (DXB)                                 | OMDB           | 5:35          |
+| Emirates Airlines | UAE158          | Stockholm-Arlanda (ARN)                           | ESSA             | Dubai Int'l (DXB)                                 | OMDB           | 6:27          |
+| Emirates Airlines | UAE160          | Oslo, Gardermoen (OSL)                            | ENGM             | Dubai Int'l (DXB)                                 | OMDB           | 6:32          |
+| Emirates Airlines | UAE162          | Dublin Int'l (DUB)                                | EIDW             | Dubai Int'l (DXB)                                 | OMDB           | 6:33          |
+| Emirates Airlines | UAE163          | Dubai Int'l (DXB)                                 | OMDB             | Dublin Int'l (DUB)                                | EIDW           | 7:37          |
+| Emirates Airlines | UAE180          | Warsaw Frederic Chopin (WAW)                      | EPWA             | Dubai Int'l (DXB)                                 | OMDB           | 5:24          |
+| Emirates Airlines | UAE181          | Dubai Int'l (DXB)                                 | OMDB             | Brussels (BRU)                                    | EBBR           | 6:33          |
+| Emirates Airlines | UAE182          | Brussels (BRU)                                    | EBBR             | Dubai Int'l (DXB)                                 | OMDB           | 5:50          |
+| Emirates Airlines | UAE184          | Brussels (BRU)                                    | EBBR             | Dubai Int'l (DXB)                                 | OMDB           | 5:54          |
+| Emirates Airlines | UAE192          | General Humberto Delgado Airport (LIS)            | LPPT             | Dubai Int'l (DXB)                                 | OMDB           | 7:02          |
+| Emirates Airlines | UAE193          | Dubai Int'l (DXB)                                 | OMDB             | General Humberto Delgado Airport (LIS)            | LPPT           | 7:53          |
+| Emirates Airlines | UAE209          | Athens Int'l, Eleftherios Venizelos (ATH)         | LGAV             | Newark Liberty Intl (EWR)                         | KEWR           | 10:08         |
+| Emirates Airlines | UAE210          | Newark Liberty Intl (EWR)                         | KEWR             | Athens Int'l, Eleftherios Venizelos (ATH)         | LGAV           | 8:45          |
+| Emirates Airlines | UAE210          | Athens Int'l, Eleftherios Venizelos (ATH)         | LGAV             | Dubai Int'l (DXB)                                 | OMDB           | 4:09          |
+| Emirates Airlines | UAE213          | Dubai Int'l (DXB)                                 | OMDB             | Miami Intl (MIA)                                  | KMIA           | 14:47         |
+| Emirates Airlines | UAE213          | Miami Intl (MIA)                                  | KMIA             | El Dorado Int'l (BOG)                             | SKBO           | 3:03          |
+| Emirates Airlines | UAE214          | Miami Intl (MIA)                                  | KMIA             | Dubai Int'l (DXB)                                 | OMDB           | 13:11         |
+| Emirates Airlines | UAE219          | Dubai Int'l (DXB)                                 | OMDB             | Orlando Intl (MCO)                                | KMCO           | 14:56         |
+| Emirates Airlines | UAE220          | Orlando Intl (MCO)                                | KMCO             | Dubai Int'l (DXB)                                 | OMDB           | 13:24         |
+| Emirates Airlines | UAE221          | Dubai Int'l (DXB)                                 | OMDB             | Dallas-Fort Worth Intl (DFW)                      | KDFW           | 15:10         |
+| Emirates Airlines | UAE222          | Dallas-Fort Worth Intl (DFW)                      | KDFW             | Dubai Int'l (DXB)                                 | OMDB           | 13:35         |
+| Emirates Airlines | UAE229          | Dubai Int'l (DXB)                                 | OMDB             | Seattle-Tacoma Intl (SEA)                         | KSEA           | 13:34         |
+| Emirates Airlines | UAE230          | Seattle-Tacoma Intl (SEA)                         | KSEA             | Dubai Int'l (DXB)                                 | OMDB           | 14:09         |
+| Emirates Airlines | UAE235          | Dubai Int'l (DXB)                                 | OMDB             | Chicago O'Hare Intl (ORD)                         | KORD           | 14:01         |
+| Emirates Airlines | UAE236          | Chicago O'Hare Intl (ORD)                         | KORD             | Dubai Int'l (DXB)                                 | OMDB           | 12:58         |
+| Emirates Airlines | UAE237          | Dubai Int'l (DXB)                                 | OMDB             | Boston Logan Intl (BOS)                           | KBOS           | 13:01         |
+| Emirates Airlines | UAE238          | Boston Logan Intl (BOS)                           | KBOS             | Dubai Int'l (DXB)                                 | OMDB           | 11:35         |
+| Emirates Airlines | UAE303          | Shanghai Pudong Int'l (PVG)                       | ZSPD             | Dubai Int'l (DXB)                                 | OMDB           | 8:02          |
+| Emirates Airlines | UAE304          | Dubai Int'l (DXB)                                 | OMDB             | Shanghai Pudong Int'l (PVG)                       | ZSPD           | 8:19          |
+| Emirates Airlines | UAE307          | Beijing Capital Int'l (PEK)                       | ZBAA             | Dubai Int'l (DXB)                                 | OMDB           | 8:05          |
+| Emirates Airlines | UAE308          | Dubai Int'l (DXB)                                 | OMDB             | Beijing Capital Int'l (PEK)                       | ZBAA           | 7:18          |
+| Emirates Airlines | UAE312          | Dubai Int'l (DXB)                                 | OMDB             | Tokyo Int'l (HND)                                 | RJTT           | 9:40          |
+| Emirates Airlines | UAE313          | Tokyo Int'l (HND)                                 | RJTT             | Dubai Int'l (DXB)                                 | OMDB           | 9:41          |
+| Emirates Airlines | UAE325          | Incheon Int'l (ICN)                               | RKSI             | Dubai Int'l (DXB)                                 | OMDB           | 8:48          |
+| Emirates Airlines | UAE333          | Manila Int'l (MNL)                                | RPLL             | Dubai Int'l (DXB)                                 | OMDB           | 8:03          |
+| Emirates Airlines | UAE334          | Dubai Int'l (DXB)                                 | OMDB             | Manila Int'l (MNL)                                | RPLL           | 8:24          |
+| Emirates Airlines | UAE335          | Manila Int'l (MNL)                                | RPLL             | Dubai Int'l (DXB)                                 | OMDB           | 7:50          |
+| Emirates Airlines | UAE336          | Dubai Int'l (DXB)                                 | OMDB             | Manila Int'l (MNL)                                | RPLL           | 8:05          |
+| Emirates Airlines | UAE338          | Clark International (CRK)                         | RPLC             | Dubai Int'l (DXB)                                 | OMDB           | 7:53          |
+| Emirates Airlines | UAE344          | Dubai Int'l (DXB)                                 | OMDB             | Kuala Lumpur Int'l (KUL)                          | WMKK           | 6:34          |
+| Emirates Airlines | UAE347          | Kuala Lumpur Int'l (KUL)                          | WMKK             | Dubai Int'l (DXB)                                 | OMDB           | 6:11          |
+| Emirates Airlines | UAE349          | Singapore Changi (SIN)                            | WSSS             | Dubai Int'l (DXB)                                 | OMDB           | 6:50          |
+| Emirates Airlines | UAE357          | Jakarta-Soekarno-Hatta Int'l (CGK)                | WIII             | Dubai Int'l (DXB)                                 | OMDB           | 7:08          |
+| Emirates Airlines | UAE358          | Dubai Int'l (DXB)                                 | OMDB             | Jakarta-Soekarno-Hatta Int'l (CGK)                | WIII           | 8:09          |
+| Emirates Airlines | UAE359          | Jakarta-Soekarno-Hatta Int'l (CGK)                | WIII             | Dubai Int'l (DXB)                                 | OMDB           | 7:06          |
+| Emirates Airlines | UAE362          | Dubai Int'l (DXB)                                 | OMDB             | Guangzhou Baiyun Int'l (CAN)                      | ZGGG           | 7:31          |
+| Emirates Airlines | UAE363          | Guangzhou Baiyun Int'l (CAN)                      | ZGGG             | Dubai Int'l (DXB)                                 | OMDB           | 7:04          |
+| Emirates Airlines | UAE370          | Dubai Int'l (DXB)                                 | OMDB             | Suvarnabhumi Bangkok Int'l (BKK)                  | VTBS           | 6:09          |
+| Emirates Airlines | UAE379          | Phuket Int'l (HKT)                                | VTSP             | Dubai Int'l (DXB)                                 | OMDB           | 5:35          |
+| Emirates Airlines | UAE383          | Hong Kong Int'l (HKG)                             | VHHH             | Dubai Int'l (DXB)                                 | OMDB           | 7:08          |
+| Emirates Airlines | UAE392          | Dubai Int'l (DXB)                                 | OMDB             | Tan Son Nhat Int'l (SGN)                          | VVTS           | 6:53          |
+| Emirates Airlines | UAE393          | Tan Son Nhat Int'l (SGN)                          | VVTS             | Dubai Int'l (DXB)                                 | OMDB           | 6:23          |
+| Emirates Airlines | UAE395          | Noi Bai Int'l (HAN)                               | VVNB             | Dubai Int'l (DXB)                                 | OMDB           | 5:48          |
+| Emirates Airlines | UAE396          | Dubai Int'l (DXB)                                 | OMDB             | Phuket Int'l (HKT)                                | VTSP           | 6:09          |
+| Emirates Airlines | UAE397          | Phuket Int'l (HKT)                                | VTSP             | Dubai Int'l (DXB)                                 | OMDB           | 5:39          |
+| Emirates Airlines | UAE398          | Dubai Int'l (DXB)                                 | OMDB             | Ngurah Rai/Bali Intl (DPS)                        | WADD           | 8:55          |
+| Emirates Airlines | UAE399          | Ngurah Rai/Bali Intl (DPS)                        | WADD             | Dubai Int'l (DXB)                                 | OMDB           | 8:22          |
+| Emirates Airlines | UAE404          | Dubai Int'l (DXB)                                 | OMDB             | Singapore Changi (SIN)                            | WSSS           | 7:17          |
+| Emirates Airlines | UAE405          | Melbourne Tullamarine (MEL)                       | YMML             | Singapore Changi (SIN)                            | WSSS           | 7:30          |
+| Emirates Airlines | UAE430          | Dubai Int'l (DXB)                                 | OMDB             | Brisbane (BNE)                                    | YBBN           | 13:06         |
+| Emirates Airlines | UAE431          | Brisbane (BNE)                                    | YBBN             | Dubai Int'l (DXB)                                 | OMDB           | 13:29         |
+| Emirates Airlines | UAE507          | Chatrapati Shivaji Int'l (BOM)                    | VABB             | Dubai Int'l (DXB)                                 | OMDB           | 2:34          |
+| Emirates Airlines | UAE512          | Dubai Int'l (DXB)                                 | OMDB             | Indira Gandhi Int'l (DEL)                         | VIDP           | 2:55          |
+| Emirates Airlines | UAE514          | Dubai Int'l (DXB)                                 | OMDB             | Indira Gandhi Int'l (DEL)                         | VIDP           | 3:06          |
+| Emirates Airlines | UAE515          | Indira Gandhi Int'l (DEL)                         | VIDP             | Dubai Int'l (DXB)                                 | OMDB           | 2:58          |
+| Emirates Airlines | UAE517          | Indira Gandhi Int'l (DEL)                         | VIDP             | Dubai Int'l (DXB)                                 | OMDB           | 2:58          |
+| Emirates Airlines | UAE522          | Dubai Int'l (DXB)                                 | OMDB             | Thiruvananthapuram Int'l (TRV)                    | VOTV           | 3:54          |
+| Emirates Airlines | UAE524          | Dubai Int'l (DXB)                                 | OMDB             | Rajiv Gandhi Int'l (HYD)                          | VOHS           | 3:21          |
+| Emirates Airlines | UAE529          | Rajiv Gandhi Int'l (HYD)                          | VOHS             | Dubai Int'l (DXB)                                 | OMDB           | 3:09          |
+| Emirates Airlines | UAE532          | Dubai Int'l (DXB)                                 | OMDB             | Cochin Int'l (COK)                                | VOCI           | 3:52          |
+| Emirates Airlines | UAE542          | Dubai Int'l (DXB)                                 | OMDB             | Chennai Int'l (MAA)                               | VOMM           | 3:51          |
+| Emirates Airlines | UAE546          | Dubai Int'l (DXB)                                 | OMDB             | Chennai Int'l (MAA)                               | VOMM           | 3:57          |
+| Emirates Airlines | UAE547          | Chennai Int'l (MAA)                               | VOMM             | Dubai Int'l (DXB)                                 | OMDB           | 3:36          |
+| Emirates Airlines | UAE566          | Dubai Int'l (DXB)                                 | OMDB             | Bengaluru Int'l (BLR)                             | VOBL           | 3:36          |
+| Emirates Airlines | UAE567          | Bengaluru Int'l (BLR)                             | VOBL             | Dubai Int'l (DXB)                                 | OMDB           | 3:17          |
+| Emirates Airlines | UAE572          | Dubai Int'l (DXB)                                 | OMDB             | Netaji Subhash Chandra Bose Int'l (CCU)           | VECC           | 4:26          |
+| Emirates Airlines | UAE573          | Netaji Subhash Chandra Bose Int'l (CCU)           | VECC             | Dubai Int'l (DXB)                                 | OMDB           | 4:03          |
+| Emirates Airlines | UAE583          | Shahjalal International Airport (DAC)             | VGHS             | Dubai Int'l (DXB)                                 | OMDB           | 3:58          |
+| Emirates Airlines | UAE584          | Dubai Int'l (DXB)                                 | OMDB             | Shahjalal International Airport (DAC)             | VGHS           | 4:21          |
+| Emirates Airlines | UAE585          | Shahjalal International Airport (DAC)             | VGHS             | Dubai Int'l (DXB)                                 | OMDB           | 4:04          |
+| Emirates Airlines | UAE587          | Shahjalal International Airport (DAC)             | VGHS             | Dubai Int'l (DXB)                                 | OMDB           | 4:14          |
+| Emirates Airlines | UAE618          | Dubai Int'l (DXB)                                 | OMDB             | Sialkot Int'l (SKT)                               | OPST           | 2:55          |
+| Emirates Airlines | UAE648          | Dubai Int'l (DXB)                                 | OMDB             | Bandaranaike Int'l (CMB)                          | VCBI           | 4:17          |
+| Emirates Airlines | UAE652          | Male Int'l (MLE)                                  | VRMM             | Bandaranaike Int'l (CMB)                          | VCBI           | 1:16          |
+| Emirates Airlines | UAE653          | Male Int'l (MLE)                                  | VRMM             | Dubai Int'l (DXB)                                 | OMDB           | 3:31          |
+| Emirates Airlines | UAE708          | Seychelles Int'l (SEZ)                            | FSIA             | Dubai Int'l (DXB)                                 | OMDB           | 4:06          |
+| Emirates Airlines | UAE713          | Dubai Int'l (DXB)                                 | OMDB             | Lusaka International Airport (LUN)                | FLKK           | 6:36          |
+| Emirates Airlines | UAE714          | Lusaka International Airport (LUN)                | FLKK             | Dubai Int'l (DXB)                                 | OMDB           | 6:38          |
+| Emirates Airlines | UAE714          | Harare International (HRE)                        | FVRG             | Lusaka International Airport (LUN)                | FLKK           | 0:43          |
+| Emirates Airlines | UAE720          | Jomo Kenyatta Int'l (NBO)                         | HKJK             | Dubai Int'l (DXB)                                 | OMDB           | 4:46          |
+| Emirates Airlines | UAE722          | Jomo Kenyatta Int'l (NBO)                         | HKJK             | Dubai Int'l (DXB)                                 | OMDB           | 4:49          |
+| Emirates Airlines | UAE726          | Dar es Salaam (DAR)                               | HTDA             | Dubai Int'l (DXB)                                 | OMDB           | 5:08          |
+| Emirates Airlines | UAE730          | Entebbe Int'l (EBB)                               | HUEN             | Dubai Int'l (DXB)                                 | OMDB           | 5:02          |
+| Emirates Airlines | UAE748          | Tunis-Carthage Int'l (TUN)                        | DTTA             | Dubai Int'l (DXB)                                 | OMDB           | 5:15          |
+| Emirates Airlines | UAE758          | Houari Boumedienne (ALG)                          | DAAG             | Dubai Int'l (DXB)                                 | OMDB           | 6:00          |
+| Emirates Airlines | UAE762          | OR Tambo Int'l (JNB)                              | FAOR             | Dubai Int'l (DXB)                                 | OMDB           | 7:31          |
+| Emirates Airlines | UAE765          | Dubai Int'l (DXB)                                 | OMDB             | OR Tambo Int'l (JNB)                              | FAOR           | 7:51          |
+| Emirates Airlines | UAE770          | Dubai Int'l (DXB)                                 | OMDB             | Cape Town Int'l (CPT)                             | FACT           | 9:21          |
+| Emirates Airlines | UAE771          | Cape Town Int'l (CPT)                             | FACT             | Dubai Int'l (DXB)                                 | OMDB           | 8:59          |
+| Emirates Airlines | UAE773          | Cape Town Int'l (CPT)                             | FACT             | Dubai Int'l (DXB)                                 | OMDB           | 8:54          |
+| Emirates Airlines | UAE775          | Dubai Int'l (DXB)                                 | OMDB             | King Shaka Int'l (DUR)                            | FALE           | 8:03          |
+| Emirates Airlines | UAE776          | King Shaka Int'l (DUR)                            | FALE             | Dubai Int'l (DXB)                                 | OMDB           | 7:52          |
+| Emirates Airlines | UAE788          | Kotoka Int'l (ACC)                                | DGAA             | Dubai Int'l (DXB)                                 | OMDB           | 8:33          |
+| Emirates Airlines | UAE793          | Dubai Int'l (DXB)                                 | OMDB             | Quatro de Fevereiro (LAD)                         | FNLU           | 7:18          |
+| Emirates Airlines | UAE795          | Blaise Diagne (DSS)                               | GOBD             | Dubai Int'l (DXB)                                 | OMDB           | 8:57          |
+| Emirates Airlines | UAE809          | Dubai Int'l (DXB)                                 | OMDB             | Prince Mohammad Bin Abdulaziz (MED)               | OEMA           | 2:15          |
+| Emirates Airlines | UAE810          | Prince Mohammad Bin Abdulaziz (MED)               | OEMA             | Dubai Int'l (DXB)                                 | OMDB           | 2:20          |
+| Emirates Airlines | UAE821          | Dubai Int'l (DXB)                                 | OMDB             | King Fahd Int'l (DMM)                             | OEDF           | 1:11          |
+| Emirates Airlines | UAE822          | King Fahd Int'l (DMM)                             | OEDF             | Dubai Int'l (DXB)                                 | OMDB           | 1:11          |
+| Emirates Airlines | UAE857          | Dubai Int'l (DXB)                                 | OMDB             | Kuwait Int'l (KWI)                                | OKKK           | 1:22          |
+| Emirates Airlines | UAE859          | Dubai Int'l (DXB)                                 | OMDB             | Kuwait Int'l (KWI)                                | OKKK           | 1:26          |
+| Emirates Airlines | UAE860          | Kuwait Int'l (KWI)                                | OKKK             | Dubai Int'l (DXB)                                 | OMDB           | 1:28          |
+| Emirates Airlines | UAE876          | Kuwait Int'l (KWI)                                | OKKK             | Dubai Int'l (DXB)                                 | OMDB           | 1:30          |
+| Emirates Airlines | UAE905          | Dubai Int'l (DXB)                                 | OMDB             | Queen Alia Int'l (AMM)                            | OJAI           | 2:37          |
+| Emirates Airlines | UAE922          | Cairo Int'l (CAI)                                 | HECA             | Dubai Int'l (DXB)                                 | OMDB           | 3:05          |
+| Emirates Airlines | UAE953          | Dubai Int'l (DXB)                                 | OMDB             | Beirut Air Base/Rafic Hariri Int'l (BEY)          | OLBA           | 3:36          |
+| Emirates Airlines | UAE954          | Beirut Air Base/Rafic Hariri Int'l (BEY)          | OLBA             | Dubai Int'l (DXB)                                 | OMDB           | 3:47          |
+| Emirates Airlines | UAE958          | Beirut Air Base/Rafic Hariri Int'l (BEY)          | OLBA             | Dubai Int'l (DXB)                                 | OMDB           | 3:51          |
 
 </details>
 
@@ -498,7 +561,9 @@
 | Airline            | Flight Number   | Departure                    | Departure ICAO   | Arrival           | Arrival ICAO   | Flight Time   |
 |:-------------------|:----------------|:-----------------------------|:-----------------|:------------------|:---------------|:--------------|
 | Ethiopian Airlines | ETH600          | Bole Int'l (ADD)             | HAAB             | Dubai Int'l (DXB) | OMDB           | 3:30          |
+| Ethiopian Airlines | ETH603          | Dubai Int'l (DXB)            | OMDB             | Bole Int'l (ADD)  | HAAB           | 4:14          |
 | Ethiopian Airlines | ETH607          | Guangzhou Baiyun Int'l (CAN) | ZGGG             | Bole Int'l (ADD)  | HAAB           | 8:59          |
+| Ethiopian Airlines | ETH900          | Murtala Mohammed Int'l (LOS) | DNMM             | Bole Int'l (ADD)  | HAAB           | 5:00          |
 
 </details>
 
@@ -515,6 +580,7 @@
 | Etihad Airways | ETD241          | Abu Dhabi Int'l (AUH)         | OMAA             | Allama Iqbal Int'l (LHE)    | OPLA           | 2:51          |
 | Etihad Airways | ETD327          | Abu Dhabi Int'l (AUH)         | OMAA             | King Fahd Int'l (DMM)       | OEDF           | 0:50          |
 | Etihad Airways | ETD423          | Manila Int'l (MNL)            | RPLL             | Abu Dhabi Int'l (AUH)       | OMAA           | 7:44          |
+| Etihad Airways | ETD431          | Phuket Int'l (HKT)            | VTSP             | Abu Dhabi Int'l (AUH)       | OMAA           | 5:31          |
 | Etihad Airways | ETD454          | Abu Dhabi Int'l (AUH)         | OMAA             | Sydney (SYD)                | YSSY           | 13:19         |
 | Etihad Airways | ETD455          | Sydney (SYD)                  | YSSY             | Abu Dhabi Int'l (AUH)       | OMAA           | 13:33         |
 | Etihad Airways | ETD461          | Melbourne Tullamarine (MEL)   | YMML             | Abu Dhabi Int'l (AUH)       | OMAA           | 13:20         |
@@ -590,6 +656,7 @@
 | Korean Air | KAL93           | Incheon Int'l (ICN)                | RKSI             | Washington Dulles Intl (IAD)       | KIAD           | 13:26         |
 | Korean Air | KAL94           | Washington Dulles Intl (IAD)       | KIAD             | Incheon Int'l (ICN)                | RKSI           | 13:55         |
 | Korean Air | KAL178          | Hong Kong Int'l (HKG)              | VHHH             | Incheon Int'l (ICN)                | RKSI           | 3:18          |
+| Korean Air | KAL401          | Incheon Int'l (ICN)                | RKSI             | Sydney (SYD)                       | YSSY           | 9:16          |
 | Korean Air | KAL475          | Incheon Int'l (ICN)                | RKSI             | Tan Son Nhat Int'l (SGN)           | VVTS           | 5:03          |
 | Korean Air | KAL476          | Tan Son Nhat Int'l (SGN)           | VVTS             | Incheon Int'l (ICN)                | RKSI           | 4:44          |
 | Korean Air | KAL616          | Mactan-Cebu Int'l (CEB)            | RPVM             | Incheon Int'l (ICN)                | RKSI           | 4:11          |
@@ -616,13 +683,19 @@
 <details>
 <summary>Kuwait Airways</summary>
 
-| Airline        | Flight Number   | Departure                        | Departure ICAO   | Arrival               | Arrival ICAO   | Flight Time   |
-|:---------------|:----------------|:---------------------------------|:-----------------|:----------------------|:---------------|:--------------|
-| Kuwait Airways | KAC101          | Kuwait Int'l (KWI)               | OKKK             | London Heathrow (LHR) | EGLL           | 6:20          |
-| Kuwait Airways | KAC102          | London Heathrow (LHR)            | EGLL             | Kuwait Int'l (KWI)    | OKKK           | 5:50          |
-| Kuwait Airways | KAC107          | Kuwait Int'l (KWI)               | OKKK             | London Heathrow (LHR) | EGLL           | 6:20          |
-| Kuwait Airways | KAC156          | Istanbul Airport (IST)           | LTFM             | Kuwait Int'l (KWI)    | OKKK           | 3:15          |
-| Kuwait Airways | KAC412          | Suvarnabhumi Bangkok Int'l (BKK) | VTBS             | Kuwait Int'l (KWI)    | OKKK           | 6:50          |
+| Airline        | Flight Number   | Departure                        | Departure ICAO   | Arrival                          | Arrival ICAO   | Flight Time   |
+|:---------------|:----------------|:---------------------------------|:-----------------|:---------------------------------|:---------------|:--------------|
+| Kuwait Airways | KAC101          | Kuwait Int'l (KWI)               | OKKK             | London Heathrow (LHR)            | EGLL           | 6:20          |
+| Kuwait Airways | KAC102          | London Heathrow (LHR)            | EGLL             | Kuwait Int'l (KWI)               | OKKK           | 5:50          |
+| Kuwait Airways | KAC107          | Kuwait Int'l (KWI)               | OKKK             | London Heathrow (LHR)            | EGLL           | 6:20          |
+| Kuwait Airways | KAC151          | Kuwait Int'l (KWI)               | OKKK             | Istanbul Airport (IST)           | LTFM           | 3:25          |
+| Kuwait Airways | KAC156          | Istanbul Airport (IST)           | LTFM             | Kuwait Int'l (KWI)               | OKKK           | 3:15          |
+| Kuwait Airways | KAC174          | Munich Int'l (MUC)               | EDDM             | Kuwait Int'l (KWI)               | OKKK           | 4:55          |
+| Kuwait Airways | KAC181          | Charles de Gaulle/Roissy (CDG)   | LFPG             | Kuwait Int'l (KWI)               | OKKK           | 5:35          |
+| Kuwait Airways | KAC301          | Kuwait Int'l (KWI)               | OKKK             | Chatrapati Shivaji Int'l (BOM)   | VABB           | 3:55          |
+| Kuwait Airways | KAC412          | Suvarnabhumi Bangkok Int'l (BKK) | VTBS             | Kuwait Int'l (KWI)               | OKKK           | 6:50          |
+| Kuwait Airways | KAC413          | Kuwait Int'l (KWI)               | OKKK             | Suvarnabhumi Bangkok Int'l (BKK) | VTBS           | 6:55          |
+| Kuwait Airways | KAC418          | Manila Int'l (MNL)               | RPLL             | Kuwait Int'l (KWI)               | OKKK           | 9:40          |
 
 </details>
 
@@ -640,6 +713,7 @@
 
 | Airline                         | Flight Number   | Departure                  | Departure ICAO   | Arrival             | Arrival ICAO   | Flight Time   |
 |:--------------------------------|:----------------|:---------------------------|:-----------------|:--------------------|:---------------|:--------------|
+| Pakistan International Airlines | PIA740          | King Abdulaziz Int'l (JED) | OEJN             | Multan Int'l (MUX)  | OPMT           | 4:30          |
 | Pakistan International Airlines | PIA746          | King Abdulaziz Int'l (JED) | OEJN             | Sialkot Int'l (SKT) | OPST           | 5:05          |
 
 </details>
@@ -651,6 +725,7 @@
 |:--------------------|:----------------|:----------------------------|:-----------------|:----------------------------|:---------------|:--------------|
 | Philippine Airlines | PAL102          | Manila Int'l (MNL)          | RPLL             | Los Angeles Intl (LAX)      | KLAX           | 12:24         |
 | Philippine Airlines | PAL103          | Los Angeles Intl (LAX)      | KLAX             | Manila Int'l (MNL)          | RPLL           | 12:56         |
+| Philippine Airlines | PAL104          | Manila Int'l (MNL)          | RPLL             | San Francisco Int'l (SFO)   | KSFO           | 12:40         |
 | Philippine Airlines | PAL105          | San Francisco Int'l (SFO)   | KSFO             | Manila Int'l (MNL)          | RPLL           | 12:19         |
 | Philippine Airlines | PAL112          | Manila Int'l (MNL)          | RPLL             | Los Angeles Intl (LAX)      | KLAX           | 13:10         |
 | Philippine Airlines | PAL116          | Manila Int'l (MNL)          | RPLL             | Vancouver Int'l (YVR)       | CYVR           | 11:50         |
@@ -669,6 +744,8 @@
 | Qatar Airways | QTR7            | Hamad Int'l (DOH)                          | OTHH             | London Heathrow (LHR)              | EGLL           | 6:55          |
 | Qatar Airways | QTR8            | London Heathrow (LHR)                      | EGLL             | Hamad Int'l (DOH)                  | OTHH           | 6:25          |
 | Qatar Airways | QTR12           | London Heathrow (LHR)                      | EGLL             | Hamad Int'l (DOH)                  | OTHH           | 6:25          |
+| Qatar Airways | QTR15           | Hamad Int'l (DOH)                          | OTHH             | London Heathrow (LHR)              | EGLL           | 6:55          |
+| Qatar Airways | QTR37           | Hamad Int'l (DOH)                          | OTHH             | Charles de Gaulle/Roissy (CDG)     | LFPG           | 6:28          |
 | Qatar Airways | QTR42           | Charles de Gaulle/Roissy (CDG)             | LFPG             | Hamad Int'l (DOH)                  | OTHH           | 6:05          |
 | Qatar Airways | QTR67           | Hamad Int'l (DOH)                          | OTHH             | Frankfurt Int'l (FRA)              | EDDF           | 6:05          |
 | Qatar Airways | QTR68           | Frankfurt Int'l (FRA)                      | EDDF             | Hamad Int'l (DOH)                  | OTHH           | 5:35          |
@@ -680,9 +757,11 @@
 | Qatar Airways | QTR245          | Hamad Int'l (DOH)                          | OTHH             | Istanbul Airport (IST)             | LTFM           | 3:58          |
 | Qatar Airways | QTR246          | Istanbul Airport (IST)                     | LTFM             | Hamad Int'l (DOH)                  | OTHH           | 3:50          |
 | Qatar Airways | QTR273          | Hamad Int'l (DOH)                          | OTHH             | Amsterdam Schiphol (AMS)           | EHAM           | 7:30          |
+| Qatar Airways | QTR274          | Amsterdam Schiphol (AMS)                   | EHAM             | Hamad Int'l (DOH)                  | OTHH           | 6:22          |
 | Qatar Airways | QTR328          | London Gatwick (LGW)                       | EGKK             | Hamad Int'l (DOH)                  | OTHH           | 6:24          |
 | Qatar Airways | QTR556          | Hamad Int'l (DOH)                          | OTHH             | Chatrapati Shivaji Int'l (BOM)     | VABB           | 3:05          |
 | Qatar Airways | QTR572          | Hamad Int'l (DOH)                          | OTHH             | Bengaluru Int'l (BLR)              | VOBL           | 4:00          |
+| Qatar Airways | QTR675          | Male Int'l (MLE)                           | VRMM             | Hamad Int'l (DOH)                  | OTHH           | 4:25          |
 | Qatar Airways | QTR701          | Hamad Int'l (DOH)                          | OTHH             | John F Kennedy Intl (JFK)          | KJFK           | 13:00         |
 | Qatar Airways | QTR702          | John F Kennedy Intl (JFK)                  | KJFK             | Hamad Int'l (DOH)                  | OTHH           | 12:00         |
 | Qatar Airways | QTR703          | Hamad Int'l (DOH)                          | OTHH             | John F Kennedy Intl (JFK)          | KJFK           | 13:20         |
@@ -699,8 +778,10 @@
 | Qatar Airways | QTR764          | Montreal-Trudeau (YUL)                     | CYUL             | Hamad Int'l (DOH)                  | OTHH           | 11:50         |
 | Qatar Airways | QTR777          | Hamad Int'l (DOH)                          | OTHH             | Miami Intl (MIA)                   | KMIA           | 15:32         |
 | Qatar Airways | QTR778          | Miami Intl (MIA)                           | KMIA             | Hamad Int'l (DOH)                  | OTHH           | 13:17         |
+| Qatar Airways | QTR807          | Narita Int'l (NRT)                         | RJAA             | Hamad Int'l (DOH)                  | OTHH           | 10:50         |
 | Qatar Airways | QTR815          | Hong Kong Int'l (HKG)                      | VHHH             | Hamad Int'l (DOH)                  | OTHH           | 7:40          |
 | Qatar Airways | QTR816          | Hamad Int'l (DOH)                          | OTHH             | Hong Kong Int'l (HKG)              | VHHH           | 8:05          |
+| Qatar Airways | QTR817          | Hong Kong Int'l (HKG)                      | VHHH             | Hamad Int'l (DOH)                  | OTHH           | 7:35          |
 | Qatar Airways | QTR828          | Hamad Int'l (DOH)                          | OTHH             | Suvarnabhumi Bangkok Int'l (BKK)   | VTBS           | 6:26          |
 | Qatar Airways | QTR829          | Suvarnabhumi Bangkok Int'l (BKK)           | VTBS             | Hamad Int'l (DOH)                  | OTHH           | 6:47          |
 | Qatar Airways | QTR830          | Hamad Int'l (DOH)                          | OTHH             | Suvarnabhumi Bangkok Int'l (BKK)   | VTBS           | 6:23          |
@@ -708,6 +789,8 @@
 | Qatar Airways | QTR838          | Hamad Int'l (DOH)                          | OTHH             | Suvarnabhumi Bangkok Int'l (BKK)   | VTBS           | 6:20          |
 | Qatar Airways | QTR842          | Hamad Int'l (DOH)                          | OTHH             | Phuket Int'l (HKT)                 | VTSP           | 6:47          |
 | Qatar Airways | QTR844          | Hamad Int'l (DOH)                          | OTHH             | Kuala Lumpur Int'l (KUL)           | WMKK           | 7:11          |
+| Qatar Airways | QTR847          | Phuket Int'l (HKT)                         | VTSP             | Hamad Int'l (DOH)                  | OTHH           | 6:25          |
+| Qatar Airways | QTR853          | Kuala Lumpur Int'l (KUL)                   | WMKK             | Hamad Int'l (DOH)                  | OTHH           | 6:30          |
 | Qatar Airways | QTR871          | Shanghai Pudong Int'l (PVG)                | ZSPD             | Hamad Int'l (DOH)                  | OTHH           | 8:15          |
 | Qatar Airways | QTR891          | Hangzhou Xiaoshan Int'l (HGH)              | ZSHC             | Hamad Int'l (DOH)                  | OTHH           | 8:07          |
 | Qatar Airways | QTR893          | Beijing Daxing International Airport (PKX) | ZBAD             | Hamad Int'l (DOH)                  | OTHH           | 8:23          |
@@ -719,17 +802,24 @@
 | Qatar Airways | QTR915          | Adelaide Int'l (ADL)                       | YPAD             | Hamad Int'l (DOH)                  | OTHH           | 12:43         |
 | Qatar Airways | QTR928          | Hamad Int'l (DOH)                          | OTHH             | Manila Int'l (MNL)                 | RPLL           | 9:00          |
 | Qatar Airways | QTR929          | Manila Int'l (MNL)                         | RPLL             | Hamad Int'l (DOH)                  | OTHH           | 9:05          |
+| Qatar Airways | QTR933          | Manila Int'l (MNL)                         | RPLL             | Hamad Int'l (DOH)                  | OTHH           | 8:40          |
 | Qatar Airways | QTR934          | Hamad Int'l (DOH)                          | OTHH             | Manila Int'l (MNL)                 | RPLL           | 9:00          |
 | Qatar Airways | QTR954          | Hamad Int'l (DOH)                          | OTHH             | Jakarta-Soekarno-Hatta Int'l (CGK) | WIII           | 8:30          |
 | Qatar Airways | QTR955          | Jakarta-Soekarno-Hatta Int'l (CGK)         | WIII             | Hamad Int'l (DOH)                  | OTHH           | 8:10          |
+| Qatar Airways | QTR971          | Tan Son Nhat Int'l (SGN)                   | VVTS             | Hamad Int'l (DOH)                  | OTHH           | 7:10          |
+| Qatar Airways | QTR977          | Noi Bai Int'l (HAN)                        | VVNB             | Hamad Int'l (DOH)                  | OTHH           | 6:25          |
 | Qatar Airways | QTR988          | Melbourne Tullamarine (MEL)                | YMML             | Adelaide Int'l (ADL)               | YPAD           | 1:04          |
 | Qatar Airways | QTR988          | Hamad Int'l (DOH)                          | OTHH             | Melbourne Tullamarine (MEL)        | YMML           | 12:58         |
 | Qatar Airways | QTR989          | Melbourne Tullamarine (MEL)                | YMML             | Hamad Int'l (DOH)                  | OTHH           | 13:12         |
 | Qatar Airways | QTR1165         | King Khalid Int'l (RUH)                    | OERK             | Hamad Int'l (DOH)                  | OTHH           | 1:10          |
+| Qatar Airways | QTR1188         | Hamad Int'l (DOH)                          | OTHH             | King Abdulaziz Int'l (JED)         | OEJN           | 2:33          |
 | Qatar Airways | QTR1301         | Hamad Int'l (DOH)                          | OTHH             | Cairo Int'l (CAI)                  | HECA           | 3:21          |
+| Qatar Airways | QTR1302         | Cairo Int'l (CAI)                          | HECA             | Hamad Int'l (DOH)                  | OTHH           | 2:55          |
 | Qatar Airways | QTR1304         | Cairo Int'l (CAI)                          | HECA             | Hamad Int'l (DOH)                  | OTHH           | 2:45          |
 | Qatar Airways | QTR1336         | Jomo Kenyatta Int'l (NBO)                  | HKJK             | Hamad Int'l (DOH)                  | OTHH           | 5:21          |
+| Qatar Airways | QTR1341         | Hamad Int'l (DOH)                          | OTHH             | Jomo Kenyatta Int'l (NBO)          | HKJK           | 5:00          |
 | Qatar Airways | QTR1424         | Kotoka Int'l (ACC)                         | DGAA             | Hamad Int'l (DOH)                  | OTHH           | 9:05          |
+| Qatar Airways | QTR1427         | Hamad Int'l (DOH)                          | OTHH             | Bole Int'l (ADD)                   | HAAB           | 4:03          |
 
 </details>
 
@@ -752,6 +842,7 @@
 |:----------|:----------------|:------------------------------------|:-----------------|:-----------------------------------|:---------------|:--------------|
 | Saudia    | SVA23           | King Khalid Int'l (RUH)             | OERK             | John F Kennedy Intl (JFK)          | KJFK           | 13:05         |
 | Saudia    | SVA820          | Prince Mohammad Bin Abdulaziz (MED) | OEMA             | Jakarta-Soekarno-Hatta Int'l (CGK) | WIII           | 10:00         |
+| Saudia    | SVA830          | Prince Mohammad Bin Abdulaziz (MED) | OEMA             | Kuala Lumpur Int'l (KUL)           | WMKK           | 8:15          |
 
 </details>
 
@@ -805,6 +896,7 @@
 | Swissair  | SWR41           | Los Angeles Intl (LAX)           | KLAX             | Zurich (ZRH)                     | LSZH           | 10:04         |
 | Swissair  | SWR64           | Zurich (ZRH)                     | LSZH             | Miami Intl (MIA)                 | KMIA           | 9:38          |
 | Swissair  | SWR92           | São Paulo-Guarulhos Int'l (GRU)  | SBGR             | Ministro Pistarini Int'l (EZE)   | SAEZ           | 2:40          |
+| Swissair  | SWR93           | Ministro Pistarini Int'l (EZE)   | SAEZ             | São Paulo-Guarulhos Int'l (GRU)  | SBGR           | 2:20          |
 | Swissair  | SWR139          | Hong Kong Int'l (HKG)            | VHHH             | Zurich (ZRH)                     | LSZH           | 12:05         |
 | Swissair  | SWR160          | Zurich (ZRH)                     | LSZH             | Narita Int'l (NRT)               | RJAA           | 12:20         |
 | Swissair  | SWR161          | Narita Int'l (NRT)               | RJAA             | Zurich (ZRH)                     | LSZH           | 13:55         |
@@ -846,44 +938,59 @@
 <details>
 <summary>Turkish Airlines</summary>
 
-| Airline          | Flight Number   | Departure                    | Departure ICAO   | Arrival                               | Arrival ICAO   | Flight Time   |
-|:-----------------|:----------------|:-----------------------------|:-----------------|:--------------------------------------|:---------------|:--------------|
-| Turkish Airlines | THY1            | Istanbul Airport (IST)       | LTFM             | John F Kennedy Intl (JFK)             | KJFK           | 10:02         |
-| Turkish Airlines | THY3            | Istanbul Airport (IST)       | LTFM             | John F Kennedy Intl (JFK)             | KJFK           | 9:59          |
-| Turkish Airlines | THY4            | John F Kennedy Intl (JFK)    | KJFK             | Istanbul Airport (IST)                | LTFM           | 8:35          |
-| Turkish Airlines | THY5            | Istanbul Airport (IST)       | LTFM             | Chicago O'Hare Intl (ORD)             | KORD           | 10:50         |
-| Turkish Airlines | THY6            | Chicago O'Hare Intl (ORD)    | KORD             | Istanbul Airport (IST)                | LTFM           | 9:21          |
-| Turkish Airlines | THY7            | Istanbul Airport (IST)       | LTFM             | Washington Dulles Intl (IAD)          | KIAD           | 10:22         |
-| Turkish Airlines | THY8            | Washington Dulles Intl (IAD) | KIAD             | Istanbul Airport (IST)                | LTFM           | 8:47          |
-| Turkish Airlines | THY9            | Istanbul Airport (IST)       | LTFM             | Los Angeles Intl (LAX)                | KLAX           | 13:44         |
-| Turkish Airlines | THY10           | Los Angeles Intl (LAX)       | KLAX             | Istanbul Airport (IST)                | LTFM           | 11:32         |
-| Turkish Airlines | THY11           | Istanbul Airport (IST)       | LTFM             | John F Kennedy Intl (JFK)             | KJFK           | 10:25         |
-| Turkish Airlines | THY12           | Istanbul Airport (IST)       | LTFM             | Indira Gandhi Int'l (DEL)             | VIDP           | 5:30          |
-| Turkish Airlines | THY12           | John F Kennedy Intl (JFK)    | KJFK             | Istanbul Airport (IST)                | LTFM           | 8:13          |
-| Turkish Airlines | THY17           | Istanbul Airport (IST)       | LTFM             | Toronto Pearson Int'l (YYZ)           | CYYZ           | 9:22          |
-| Turkish Airlines | THY18           | Istanbul Airport (IST)       | LTFM             | Chatrapati Shivaji Int'l (BOM)        | VABB           | 7:05          |
-| Turkish Airlines | THY20           | Istanbul Airport (IST)       | LTFM             | Incheon Int'l (ICN)                   | RKSI           | 9:39          |
-| Turkish Airlines | THY27           | Shanghai Pudong Int'l (PVG)  | ZSPD             | Istanbul Airport (IST)                | LTFM           | 10:42         |
-| Turkish Airlines | THY33           | Istanbul Airport (IST)       | LTFM             | Houston Bush Int'ctl (IAH)            | KIAH           | 12:40         |
-| Turkish Airlines | THY55           | Singapore Changi (SIN)       | WSSS             | Istanbul Airport (IST)                | LTFM           | 11:00         |
-| Turkish Airlines | THY61           | Kuala Lumpur Int'l (KUL)     | WMKK             | Istanbul Airport (IST)                | LTFM           | 10:25         |
-| Turkish Airlines | THY71           | Hong Kong Int'l (HKG)        | VHHH             | Istanbul Airport (IST)                | LTFM           | 11:25         |
-| Turkish Airlines | THY73           | Guangzhou Baiyun Int'l (CAN) | ZGGG             | Istanbul Airport (IST)                | LTFM           | 10:26         |
-| Turkish Airlines | THY77           | Istanbul Airport (IST)       | LTFM             | Miami Intl (MIA)                      | KMIA           | 11:38         |
-| Turkish Airlines | THY89           | Beijing Capital Int'l (PEK)  | ZBAA             | Istanbul Airport (IST)                | LTFM           | 9:39          |
-| Turkish Airlines | THY91           | Incheon Int'l (ICN)          | RKSI             | Istanbul Airport (IST)                | LTFM           | 11:14         |
-| Turkish Airlines | THY179          | Istanbul Airport (IST)       | LTFM             | Los Angeles Intl (LAX)                | KLAX           | 12:13         |
-| Turkish Airlines | THY415          | Istanbul Airport (IST)       | LTFM             | Vnukovo (VKO)                         | UUWW           | 3:30          |
-| Turkish Airlines | THY416          | Vnukovo (VKO)                | UUWW             | Istanbul Airport (IST)                | LTFM           | 3:40          |
-| Turkish Airlines | THY710          | Istanbul Airport (IST)       | LTFM             | Islamabad International Airport (ISB) | OPIS           | 5:05          |
-| Turkish Airlines | THY716          | Istanbul Airport (IST)       | LTFM             | Indira Gandhi Int'l (DEL)             | VIDP           | 5:45          |
-| Turkish Airlines | THY720          | Istanbul Airport (IST)       | LTFM             | Chatrapati Shivaji Int'l (BOM)        | VABB           | 5:50          |
-| Turkish Airlines | THY760          | Istanbul Airport (IST)       | LTFM             | Dubai Int'l (DXB)                     | OMDB           | 3:35          |
-| Turkish Airlines | THY1636         | Munich Int'l (MUC)           | EDDM             | Istanbul Airport (IST)                | LTFM           | 2:30          |
-| Turkish Airlines | THY1954         | Amsterdam Schiphol (AMS)     | EHAM             | Istanbul Airport (IST)                | LTFM           | 4:55          |
-| Turkish Airlines | THY1980         | London Heathrow (LHR)        | EGLL             | Istanbul Airport (IST)                | LTFM           | 3:30          |
-| Turkish Airlines | THY1985         | Istanbul Airport (IST)       | LTFM             | London Heathrow (LHR)                 | EGLL           | 2:25          |
-| Turkish Airlines | THY6074         | Miami Intl (MIA)             | KMIA             | Istanbul Airport (IST)                | LTFM           | 9:48          |
+| Airline          | Flight Number   | Departure                    | Departure ICAO   | Arrival                                   | Arrival ICAO   | Flight Time   |
+|:-----------------|:----------------|:-----------------------------|:-----------------|:------------------------------------------|:---------------|:--------------|
+| Turkish Airlines | THY1            | Istanbul Airport (IST)       | LTFM             | John F Kennedy Intl (JFK)                 | KJFK           | 10:02         |
+| Turkish Airlines | THY3            | Istanbul Airport (IST)       | LTFM             | John F Kennedy Intl (JFK)                 | KJFK           | 9:59          |
+| Turkish Airlines | THY4            | John F Kennedy Intl (JFK)    | KJFK             | Istanbul Airport (IST)                    | LTFM           | 8:35          |
+| Turkish Airlines | THY5            | Istanbul Airport (IST)       | LTFM             | Chicago O'Hare Intl (ORD)                 | KORD           | 10:50         |
+| Turkish Airlines | THY6            | Chicago O'Hare Intl (ORD)    | KORD             | Istanbul Airport (IST)                    | LTFM           | 9:21          |
+| Turkish Airlines | THY7            | Istanbul Airport (IST)       | LTFM             | Washington Dulles Intl (IAD)              | KIAD           | 10:22         |
+| Turkish Airlines | THY8            | Washington Dulles Intl (IAD) | KIAD             | Istanbul Airport (IST)                    | LTFM           | 8:47          |
+| Turkish Airlines | THY9            | Istanbul Airport (IST)       | LTFM             | Los Angeles Intl (LAX)                    | KLAX           | 13:44         |
+| Turkish Airlines | THY10           | Los Angeles Intl (LAX)       | KLAX             | Istanbul Airport (IST)                    | LTFM           | 11:32         |
+| Turkish Airlines | THY11           | Istanbul Airport (IST)       | LTFM             | John F Kennedy Intl (JFK)                 | KJFK           | 10:25         |
+| Turkish Airlines | THY12           | Istanbul Airport (IST)       | LTFM             | Indira Gandhi Int'l (DEL)                 | VIDP           | 5:30          |
+| Turkish Airlines | THY12           | John F Kennedy Intl (JFK)    | KJFK             | Istanbul Airport (IST)                    | LTFM           | 8:13          |
+| Turkish Airlines | THY17           | Istanbul Airport (IST)       | LTFM             | Toronto Pearson Int'l (YYZ)               | CYYZ           | 9:22          |
+| Turkish Airlines | THY18           | Istanbul Airport (IST)       | LTFM             | Chatrapati Shivaji Int'l (BOM)            | VABB           | 7:05          |
+| Turkish Airlines | THY20           | Istanbul Airport (IST)       | LTFM             | Incheon Int'l (ICN)                       | RKSI           | 9:39          |
+| Turkish Airlines | THY27           | Shanghai Pudong Int'l (PVG)  | ZSPD             | Istanbul Airport (IST)                    | LTFM           | 10:42         |
+| Turkish Airlines | THY33           | Istanbul Airport (IST)       | LTFM             | Houston Bush Int'ctl (IAH)                | KIAH           | 12:40         |
+| Turkish Airlines | THY55           | Singapore Changi (SIN)       | WSSS             | Istanbul Airport (IST)                    | LTFM           | 11:00         |
+| Turkish Airlines | THY61           | Kuala Lumpur Int'l (KUL)     | WMKK             | Istanbul Airport (IST)                    | LTFM           | 10:25         |
+| Turkish Airlines | THY71           | Hong Kong Int'l (HKG)        | VHHH             | Istanbul Airport (IST)                    | LTFM           | 11:25         |
+| Turkish Airlines | THY73           | Guangzhou Baiyun Int'l (CAN) | ZGGG             | Istanbul Airport (IST)                    | LTFM           | 10:26         |
+| Turkish Airlines | THY75           | Istanbul Airport (IST)       | LTFM             | Vancouver Int'l (YVR)                     | CYVR           | 11:50         |
+| Turkish Airlines | THY77           | Istanbul Airport (IST)       | LTFM             | Miami Intl (MIA)                          | KMIA           | 11:38         |
+| Turkish Airlines | THY89           | Beijing Capital Int'l (PEK)  | ZBAA             | Istanbul Airport (IST)                    | LTFM           | 9:39          |
+| Turkish Airlines | THY91           | Incheon Int'l (ICN)          | RKSI             | Istanbul Airport (IST)                    | LTFM           | 11:14         |
+| Turkish Airlines | THY179          | Istanbul Airport (IST)       | LTFM             | Los Angeles Intl (LAX)                    | KLAX           | 12:13         |
+| Turkish Airlines | THY415          | Istanbul Airport (IST)       | LTFM             | Vnukovo (VKO)                             | UUWW           | 3:30          |
+| Turkish Airlines | THY416          | Vnukovo (VKO)                | UUWW             | Istanbul Airport (IST)                    | LTFM           | 3:40          |
+| Turkish Airlines | THY710          | Istanbul Airport (IST)       | LTFM             | Islamabad International Airport (ISB)     | OPIS           | 5:05          |
+| Turkish Airlines | THY716          | Istanbul Airport (IST)       | LTFM             | Indira Gandhi Int'l (DEL)                 | VIDP           | 5:45          |
+| Turkish Airlines | THY720          | Istanbul Airport (IST)       | LTFM             | Chatrapati Shivaji Int'l (BOM)            | VABB           | 5:50          |
+| Turkish Airlines | THY760          | Istanbul Airport (IST)       | LTFM             | Dubai Int'l (DXB)                         | OMDB           | 3:35          |
+| Turkish Airlines | THY1636         | Munich Int'l (MUC)           | EDDM             | Istanbul Airport (IST)                    | LTFM           | 2:30          |
+| Turkish Airlines | THY1845         | Istanbul Airport (IST)       | LTFM             | Athens Int'l, Eleftherios Venizelos (ATH) | LGAV           | 1:10          |
+| Turkish Airlines | THY1884         | Montreal-Trudeau (YUL)       | CYUL             | Istanbul Airport (IST)                    | LTFM           | 9:24          |
+| Turkish Airlines | THY1954         | Amsterdam Schiphol (AMS)     | EHAM             | Istanbul Airport (IST)                    | LTFM           | 4:55          |
+| Turkish Airlines | THY1971         | Istanbul Airport (IST)       | LTFM             | London Heathrow (LHR)                     | EGLL           | 1:45          |
+| Turkish Airlines | THY1980         | London Heathrow (LHR)        | EGLL             | Istanbul Airport (IST)                    | LTFM           | 3:30          |
+| Turkish Airlines | THY1985         | Istanbul Airport (IST)       | LTFM             | London Heathrow (LHR)                     | EGLL           | 2:25          |
+| Turkish Airlines | THY2336         | Istanbul Airport (IST)       | LTFM             | İzmir Adnan Menderes Int'l (ADB)          | LTBJ           | 0:55          |
+| Turkish Airlines | THY6074         | Miami Intl (MIA)             | KMIA             | Istanbul Airport (IST)                    | LTFM           | 9:48          |
+
+</details>
+
+<details>
+<summary>Turkmenistan Airlines</summary>
+
+| Airline               | Flight Number   | Departure             | Departure ICAO   | Arrival        | Arrival ICAO   | Flight Time   |
+|:----------------------|:----------------|:----------------------|:-----------------|:---------------|:---------------|:--------------|
+| Turkmenistan Airlines | TUA428          | London Gatwick (LGW)  | EGKK             | Ashgabat (ASB) | UTAA           | 5:56          |
+| Turkmenistan Airlines | TUA464          | Frankfurt Int'l (FRA) | EDDF             | Ashgabat (ASB) | UTAA           | 5:10          |
 
 </details>
 
