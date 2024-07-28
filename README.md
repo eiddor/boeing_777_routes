@@ -6,7 +6,7 @@ Boeing 777-200LR Freighter (B77F) routes are [here](https://github.com/eiddor/bo
 
 ## FAQs
 
-**Q: There are non-Cargo carriers in the Freighter Routes list.
+**Q: There are non-Cargo carriers in the Freighter Routes list.**
 
 A: _I know - The B77F is based on the Boeing 777-200LR and there doesn't seem to be a dedicated aircraft type for it in the flight databases, so we get every 777-200LR route.  Once I get enough data on these flights (with a list of the cargo carriers), I will filter them out._
 
