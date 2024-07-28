@@ -1,4 +1,4 @@
-##A list of Boeing 777 Routes sorted by airline.
+#A list of Boeing 777 Routes sorted by airline.
 
 Boeing 777-300ER (B77W) routes are [here](https://github.com/eiddor/boeing_b77w_routes/wiki/Boeing-777%E2%80%90300ER-Routes-(B77W))
 
