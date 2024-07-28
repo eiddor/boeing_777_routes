@@ -6,9 +6,13 @@ Boeing 777-200LR Freighter (B77F) routes are [here](https://github.com/eiddor/bo
 
 ## FAQs
 
+**Q: There are non-Cargo carriers in the Freighter Routes list.
+
+A: _I know - The B77F is based on the Boeing 777-200LR and there doesn't seem to be a dedicated aircraft type for it in the flight databases, so we get every 777-200LR route.  Once I get enough data on these flights (with a list of the cargo carriers), I will filter them out._
+
 **Q: There are a million flight planning tools out there.  Why did you make this list?**
 
-A: _Although there are plenty of amazing tools out there for flight planning and getting flight routes, they tend to be more useful when you already know where you want to fly or if you're fine with accepting any random route.  Sometimes I want to fly based on a cool B77W livery that I just installed, so I wanted a quick way to see a list of all routes that the airline flies using the B77W.  I added the approximate flight time to the list so I can choose a flight based on my personal schedule as well.  Once I pick a flight, then I will go to the other tools for further detailed planning._
+A: _Although there are plenty of amazing tools out there for flight planning and getting flight routes, they tend to be more useful when you already know where you want to fly or if you're fine with accepting any random route.  Sometimes I want to fly based on a cool B77W livery that I just installed, so I wanted a quick way to see a list of all routes that the airline flies using the B77W.  I added the approximate flight time to the list so I can choose a flight based on my personal schedule as well.  Once I pick a flight, then I turn to the other tools for more detailed planning._
 
 **Q: Is this data "real time?"**
 
